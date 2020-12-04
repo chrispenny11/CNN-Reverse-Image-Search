@@ -1,0 +1,35 @@
+Chris Penny
+MPCS 53112
+Final Project
+December 3, 2020
+
+## SEARCHENGINE CLASS ##
+
+Most of the encoding, processing, and collection of search results was performed using a 'searchEngine' class designed to take a user input denoting the desired encoding type.  This allowed one set of written methods to perform necessary steps across the eight encoding types (listed below):
+
+1. ResNet50, 1,000:  ResNet50 architecture’s final prediction layer.  
+2. ResNet50, 2,048:  Resnet50 architecture’s penultimate layer.  Output of a GlobalAveragePooling2D layer on a (batch size, 7, 7, 2048).
+3. AE Simple, 2,048:  ‘Simple’ autoencoder model’s (batch size, 7, 7, 224) tensor passed through a GlobalMaxPooling2D layer.   
+4. AE Dense, 2,048:  ‘Dense’ autoencoder model’s (batch size, 7, 7, 224) tensor passed through a GlobalMaxPooling2D layer.   
+5. AE Bottleneck, 2,048:  ‘Bottleneck’ autoencoder model’s minimum dimension, of size (batch size, 2,048).
+6. Combined, 3,048:  A direct concatenation of the ResNet50, 1,000 encoding and the AE Bottleneck, 2,048 encoding. Constituent encodings are normalized prior to concatenation. 
+7. Weighted Combined, 3,048:  A concatenation of the ResNet50, 1,000 encoding and the AE Bottleneck, 2,048 encoding.  Constituent encodings are normalized prior to concatenation with a scalar of 0.4 applied to the ResNet50 encodings.
+8. ResNet50 Normalized, 1,000:  ResNet50 architecture’s final prediction layer but a normalizing step is applied.
+
+The searchEngine class can be found as code setup to run on the limited number of sample encodings within this repository.  In the pushed copy of the repository, the Search Engine.ipynb notebook demonstrates the process of encoding generation.  An additional notebook - 12.3.2020 Final Search Engine with Examples - is included as an html file that demonstrates how to use the searching and scoring features of the class type as well as a large number of additional examples not shown in the written report.  Note that this additonal notebook was run using explicit filepaths that are not featured in the uploaded code due to a desire to avoid damaging the core instance of the code.
+
+Each method of the class has a document string detailing its purpose and inputs.  Unless necessary, comments have been removed for code readability.  Please feel free reach out if there are any questions!
+
+
+## AUTOENCODER TRAINING ##
+
+The notebooks used in training the three autoencoder models are included as html files.  Each html file contains a saved copy of the notebook saved after training.  Note that some cells are incomplete due to connection failure, as described in the report.  In most cases, all training information was recovered, but in two select cases epoch information was repeated due to this issue.  Regardless, the attached html files show the Keras code used to train the models, which were then saved as h5 files.  Additionally, numerous examples of reconstructed images can be found in each of the three notebooks:
+
+1. Simple:
+2. Dense:
+3. Bottleneck:
+
+
+## PLOTS AND ANALYSIS ##
+
+All recorded scoring information was saved and has been uploaded in the Plots and Analysis directory.  In addition, this directory features a Jupyter Notebook that was used to produce the plots featured in the report.
