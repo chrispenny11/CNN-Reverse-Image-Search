@@ -1,0 +1,1001 @@
+,val_id,train_id,name,description,resnet_id,resnet_desc,resnet_class
+0,1,n02119789,"kit fox, Vulpes macrotis",small grey fox of southwestern United States; may be a subspecies of Vulpes velox,n02119789,kit_fox,279
+1,2,n02100735,English setter,an English breed having a plumed tail and a soft silky coat that is chiefly white,n02100735,English_setter,213
+2,3,n02110185,Siberian husky,breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes,n02110185,Siberian_husky,251
+3,4,n02096294,Australian terrier,small greyish wire-haired breed of terrier from Australia similar to the cairn,n02096294,Australian_terrier,194
+4,5,n02102040,"English springer, English springer spaniel",a breed having typically a black-and-white coat,n02102040,English_springer,218
+5,6,n02066245,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",medium-sized greyish-black whale of the northern Pacific,n02066245,grey_whale,148
+6,7,n02509815,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas,n02509815,lesser_panda,388
+7,8,n02124075,Egyptian cat,a domestic cat of Egypt,n02124075,Egyptian_cat,286
+8,9,n02417914,"ibex, Capra ibex",wild goat of mountain areas of Eurasia and northern Africa having large recurved horns,n02417914,ibex,351
+9,10,n02123394,Persian cat,a long-haired breed of cat,n02123394,Persian_cat,284
+10,11,n02125311,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",large American feline resembling a lion,n02125311,cougar,287
+11,12,n02423022,gazelle,small swift graceful antelope of Africa and Asia having lustrous eyes,n02423022,gazelle,354
+12,13,n02346627,"porcupine, hedgehog",relatively large rodents with sharp erectile bristles mingled with the fur,n02346627,porcupine,335
+13,14,n02077923,sea lion,any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat,n02077923,sea_lion,151
+14,15,n02110063,"malamute, malemute, Alaskan malamute",breed of sled dog developed in Alaska,n02110063,malamute,250
+15,16,n02447366,badger,sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere,n02447366,badger,363
+16,17,n02109047,Great Dane,very large powerful smooth-coated breed of dog,n02109047,Great_Dane,247
+17,18,n02089867,"Walker hound, Walker foxhound",an American breed of foxhound,n02089867,Walker_hound,167
+18,19,n02102177,Welsh springer spaniel,a red-and-white breed slightly smaller than the English springer spaniel,n02102177,Welsh_springer_spaniel,219
+19,20,n02091134,whippet,small slender dog of greyhound type developed in England,n02091134,whippet,173
+20,21,n02092002,"Scottish deerhound, deerhound",very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland,n02092002,Scottish_deerhound,178
+21,22,n02071294,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",predatory black-and-white toothed whale with large dorsal fin; common in cold seas,n02071294,killer_whale,149
+22,23,n02442845,mink,slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur,n02442845,mink,358
+23,24,n02504458,"African elephant, Loxodonta africana",an elephant native to Africa having enormous flapping ears and ivory tusks,n02504458,African_elephant,387
+24,25,n02092339,Weimaraner,large breed of hound having a smooth greyish coat; originated in Germany,n02092339,Weimaraner,179
+25,26,n02098105,soft-coated wheaten terrier,Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle,n02098105,soft-coated_wheaten_terrier,203
+26,27,n02096437,"Dandie Dinmont, Dandie Dinmont terrier",a breed of small terrier with long wiry coat and drooping ears,n02096437,Dandie_Dinmont,195
+27,28,n02114712,"red wolf, maned wolf, Canis rufus, Canis niger",reddish-grey wolf of southwestern North America,n02114712,red_wolf,272
+28,29,n02105641,"Old English sheepdog, bobtail",large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain,n02105641,Old_English_sheepdog,230
+29,30,n02128925,"jaguar, panther, Panthera onca, Felis onca",a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis,n02128925,jaguar,291
+30,31,n02091635,"otterhound, otter hound",hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred for hunting otters,n02091635,otterhound,176
+31,32,n02088466,"bloodhound, sleuthhound",a breed of large powerful hound of European origin having very acute smell and used in tracking,n02088466,bloodhound,164
+32,33,n02096051,"Airedale, Airedale terrier",breed of large wiry-coated terrier bred in Yorkshire,n02096051,Airedale,192
+33,34,n02117135,"hyena, hyaena",doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion,n02117135,hyena,277
+34,35,n02138441,"meerkat, mierkat",a mongoose-like viverrine of South Africa having a face like a lemur and only four toes,n02138441,meerkat,300
+35,36,n02097130,giant schnauzer,a large schnauzer,n02097130,giant_schnauzer,198
+36,37,n02493509,"titi, titi monkey",small South American monkeys with long beautiful fur and long nonprehensile tail,n02493509,titi,381
+37,38,n02457408,"three-toed sloth, ai, Bradypus tridactylus",a sloth that has three long claws on each forefoot and each hindfoot,n02457408,three-toed_sloth,365
+38,39,n02389026,sorrel,a horse of a brownish orange to light brown color,n02389026,sorrel,340
+39,40,n02443484,"black-footed ferret, ferret, Mustela nigripes",musteline mammal of prairie regions of United States; nearly extinct,n02443484,black-footed_ferret,360
+40,41,n02110341,"dalmatian, coach dog, carriage dog",a large breed having a smooth white coat with black or brown spots; originated in Dalmatia,n02110341,dalmatian,252
+41,42,n02089078,black-and-tan coonhound,American breed of large powerful hound dogs used for hunting raccoons and other game,n02089078,black-and-tan_coonhound,166
+42,43,n02086910,papillon,small slender toy spaniel with erect ears and a black-spotted brown to white coat,n02086910,papillon,158
+43,44,n02445715,"skunk, polecat, wood pussy",American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae,n02445715,skunk,362
+44,45,n02093256,"Staffordshire bullterrier, Staffordshire bull terrier",English breed of strong stocky dog having a broad skull and smooth coat,n02093256,Staffordshire_bullterrier,180
+45,46,n02113978,Mexican hairless,any of an old breed of small nearly hairless dogs of Mexico,n02113978,Mexican_hairless,269
+46,47,n02106382,"Bouvier des Flandres, Bouviers des Flandres",rough-coated breed used originally in Belgium for herding and guarding cattle,n02106382,Bouvier_des_Flandres,234
+47,48,n02441942,weasel,small carnivorous mammal with short legs and elongated body and neck,n02441942,weasel,357
+48,49,n02113712,miniature poodle,a breed of small poodles,n02113712,miniature_poodle,267
+49,50,n02113186,"Cardigan, Cardigan Welsh corgi",slightly bowlegged variety of corgi having rounded ears and a long tail,n02113186,Cardigan,265
+50,51,n02105162,malinois,fawn-colored short-haired sheepdog,n02105162,malinois,226
+51,52,n02415577,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",wild sheep of mountainous regions of western North America having massive curled horns,n02415577,bighorn,350
+52,53,n02356798,"fox squirrel, eastern fox squirrel, Sciurus niger",exceptionally large arboreal squirrel of eastern United States,n02356798,fox_squirrel,336
+53,54,n02488702,"colobus, colobus monkey",arboreal monkey of western and central Africa with long silky fur and reduced thumbs,n02488702,colobus,376
+54,55,n02123159,tiger cat,a cat having a striped coat,n02123159,tiger_cat,283
+55,56,n02098413,"Lhasa, Lhasa apso",a breed of terrier having a long heavy coat raised in Tibet as watchdogs,n02098413,Lhasa,205
+56,57,n02422699,"impala, Aepyceros melampus",African antelope with ridged curved horns; moves with enormous leaps,n02422699,impala,353
+57,58,n02114855,"coyote, prairie wolf, brush wolf, Canis latrans",small wolf native to western North America,n02114855,coyote,273
+58,59,n02094433,Yorkshire terrier,very small breed having a long glossy coat of bluish-grey and tan,n02094433,Yorkshire_terrier,188
+59,60,n02111277,"Newfoundland, Newfoundland dog",a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland,n02111277,Newfoundland,257
+60,61,n02132136,"brown bear, bruin, Ursus arctos",large ferocious bear of Eurasia,n02132136,brown_bear,295
+61,62,n02119022,"red fox, Vulpes vulpes",the common Old World fox; having reddish-brown fur; commonly considered a single circumpolar species,n02119022,red_fox,278
+62,63,n02091467,"Norwegian elkhound, elkhound",breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk,n02091467,Norwegian_elkhound,175
+63,64,n02106550,Rottweiler,German breed of large vigorous short-haired cattle dogs,n02106550,Rottweiler,235
+64,65,n02422106,hartebeest,a large African antelope with lyre-shaped horns that curve backward,n02422106,hartebeest,352
+65,66,n02091831,"Saluki, gazelle hound",old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia,n02091831,Saluki,177
+66,67,n02120505,"grey fox, gray fox, Urocyon cinereoargenteus",dark grey American fox; from Central America through southern United States,n02120505,grey_fox,281
+67,68,n02104365,schipperke,breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium,n02104365,schipperke,224
+68,69,n02086079,"Pekinese, Pekingese, Peke",a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle,n02086079,Pekinese,155
+69,70,n02112706,Brabancon griffon,a variety of Brussels griffon having a short smooth coat,n02112706,Brabancon_griffon,263
+70,71,n02098286,West Highland white terrier,small white long-coated terrier developed in Scotland,n02098286,West_Highland_white_terrier,204
+71,72,n02095889,"Sealyham terrier, Sealyham",a wire-haired terrier with short legs that was first bred in Sealyham,n02095889,Sealyham_terrier,191
+72,73,n02484975,"guenon, guenon monkey",small slender African monkey having long hind limbs and tail and long hair around the face,n02484975,guenon,371
+73,74,n02137549,mongoose,agile grizzled Old World viverrine; preys on snakes and rodents,n02137549,mongoose,299
+74,75,n02500267,"indri, indris, Indri indri, Indri brevicaudatus",large short-tailed lemur of Madagascar having thick silky fur in black and white and fawn,n02500267,indri,385
+75,76,n02129604,"tiger, Panthera tigris",large feline of forests in most of Asia having a tawny coat with black stripes; endangered,n02129604,tiger,293
+76,77,n02090721,Irish wolfhound,large breed of hound with a rough thick coat,n02090721,Irish_wolfhound,171
+77,78,n02396427,"wild boar, boar, Sus scrofa",Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States,n02396427,wild_boar,343
+78,79,n02108000,EntleBucher,the smallest of the Sennenhunde,n02108000,EntleBucher,242
+79,80,n02391049,zebra,any of several fleet black-and-white striped African equines,n02391049,zebra,341
+80,81,n02412080,"ram, tup","uncastrated adult male sheep; ""a British term is `tup'""",n02412080,ram,349
+81,82,n02108915,French bulldog,small stocky version of the bulldog having a sleek coat and square head,n02108915,French_bulldog,246
+82,83,n02480495,"orangutan, orang, orangutang, Pongo pygmaeus",large long-armed ape of Borneo and Sumatra having arboreal habits,n02480495,orangutan,366
+83,84,n02110806,basenji,small smooth-haired breed of African origin having a tightly curled tail and the inability to bark,n02110806,basenji,254
+84,85,n02128385,"leopard, Panthera pardus",large feline of African and Asian forests usually having a tawny coat with black spots,n02128385,leopard,289
+85,86,n02107683,Bernese mountain dog,large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft,n02107683,Bernese_mountain_dog,240
+86,87,n02085936,"Maltese dog, Maltese terrier, Maltese",breed of toy dogs having a long straight silky white coat,n02085936,Maltese_dog,154
+87,88,n02094114,Norfolk terrier,English breed of small terrier with a straight wiry grizzled coat and dropped ears,n02094114,Norfolk_terrier,186
+88,89,n02087046,toy terrier,a small active dog,n02087046,toy_terrier,159
+89,90,n02100583,"vizsla, Hungarian pointer",Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat,n02100583,vizsla,212
+90,91,n02096177,"cairn, cairn terrier",small rough-haired breed of terrier from Scotland,n02096177,cairn,193
+91,92,n02494079,"squirrel monkey, Saimiri sciureus",small long-tailed monkey of Central American and South America with greenish fur and black muzzle,n02494079,squirrel_monkey,383
+92,93,n02105056,groenendael,black-coated sheepdog with a heavily plumed tail,n02105056,groenendael,225
+93,94,n02101556,"clumber, clumber spaniel",a thickset spaniel with longish silky hair,n02101556,clumber,217
+94,95,n02123597,"Siamese cat, Siamese",a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip,n02123597,Siamese_cat,285
+95,96,n02481823,"chimpanzee, chimp, Pan troglodytes",intelligent somewhat arboreal ape of equatorial African forests,n02481823,chimpanzee,368
+96,97,n02105505,komondor,Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog,n02105505,komondor,229
+97,98,n02088094,"Afghan hound, Afghan",tall graceful breed of hound with a long silky coat; native to the Near East,n02088094,Afghan_hound,161
+98,99,n02085782,Japanese spaniel,breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat,n02085782,Japanese_spaniel,153
+99,100,n02489166,"proboscis monkey, Nasalis larvatus",Borneo monkey having a long bulbous nose,n02489166,proboscis_monkey,377
+100,101,n02364673,"guinea pig, Cavia cobaya",stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research,n02364673,guinea_pig,339
+101,102,n02114548,"white wolf, Arctic wolf, Canis lupus tundrarum",wolf of Arctic North America having white fur and a black-tipped tail,n02114548,white_wolf,271
+102,103,n02134084,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",white bear of Arctic regions,n02134084,ice_bear,297
+103,104,n02480855,"gorilla, Gorilla gorilla",largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa,n02480855,gorilla,367
+104,105,n02090622,"borzoi, Russian wolfhound",tall fast-moving dog breed,n02090622,borzoi,170
+105,106,n02113624,toy poodle,the breed of very small poodles,n02113624,toy_poodle,266
+106,107,n02093859,Kerry blue terrier,an Irish breed of medium-sized terriers with a silky blue-grey coat,n02093859,Kerry_blue_terrier,184
+107,108,n02403003,ox,an adult castrated bull of the genus Bos; especially Bos taurus,n02403003,ox,346
+108,109,n02097298,"Scotch terrier, Scottish terrier, Scottie",old Scottish breed of small long-haired usually black terrier with erect tail and ears,n02097298,Scotch_terrier,200
+109,110,n02108551,Tibetan mastiff,very large powerful rough-coated dog native to central Asia,n02108551,Tibetan_mastiff,245
+110,111,n02493793,"spider monkey, Ateles geoffroyi",arboreal monkey of tropical America with long slender legs and long prehensile tail,n02493793,spider_monkey,382
+111,112,n02107142,"Doberman, Doberman pinscher",medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog,n02107142,Doberman,237
+112,113,n02096585,"Boston bull, Boston terrier",small pug-faced American terrier breed having a smooth brindle or black coat with white markings,n02096585,Boston_bull,196
+113,114,n02107574,Greater Swiss Mountain dog,the largest of the four Swiss breeds,n02107574,Greater_Swiss_Mountain_dog,239
+114,115,n02107908,Appenzeller,a smaller of the four Swiss breeds,n02107908,Appenzeller,241
+115,116,n02086240,Shih-Tzu,a Chinese breed of small dog similar to a Pekingese,n02086240,Shih-Tzu,156
+116,117,n02102973,Irish water spaniel,breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail,n02102973,Irish_water_spaniel,222
+117,118,n02112018,Pomeranian,breed of very small compact long-haired dogs of the spitz type,n02112018,Pomeranian,260
+118,119,n02093647,Bedlington terrier,a light terrier groomed to resemble a lamb,n02093647,Bedlington_terrier,182
+119,120,n02397096,warthog,African wild swine with warty protuberances on the face and large protruding tusks,n02397096,warthog,344
+120,121,n02437312,"Arabian camel, dromedary, Camelus dromedarius",one-humped camel of the hot deserts of northern Africa and southwestern Asia,n02437312,Arabian_camel,355
+121,122,n02483708,"siamang, Hylobates syndactylus, Symphalangus syndactylus",large black gibbon of Sumatra having the 2nd and 3rd toes partially united by a web,n02483708,siamang,370
+122,123,n02097047,miniature schnauzer,a small schnauzer,n02097047,miniature_schnauzer,197
+123,124,n02106030,collie,a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland,n02106030,collie,232
+124,125,n02099601,golden retriever,an English breed having a long silky golden coat,n02099601,golden_retriever,208
+125,126,n02093991,Irish terrier,medium-sized breed with a wiry brown coat; developed in Ireland,n02093991,Irish_terrier,185
+126,127,n02110627,"affenpinscher, monkey pinscher, monkey dog",European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle,n02110627,affenpinscher,253
+127,128,n02106166,Border collie,developed in the area between Scotland and England usually having a black coat with white on the head and tip of tail used for herding both sheep and cattle,n02106166,Border_collie,233
+128,129,n02326432,hare,swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes,n02326432,hare,332
+129,130,n02108089,boxer,a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany,n02108089,boxer,243
+130,131,n02097658,"silky terrier, Sydney silky",Australian breed of toy dogs having a silky blue coat,n02097658,silky_terrier,202
+131,132,n02088364,beagle,a small short-legged smooth-coated breed of hound,n02088364,beagle,163
+132,133,n02111129,Leonberg,a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland,n02111129,Leonberg,256
+133,134,n02100236,German short-haired pointer,liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound,n02100236,German_short-haired_pointer,211
+134,135,n02486261,"patas, hussar monkey, Erythrocebus patas",reddish long-tailed monkey of west Africa,n02486261,patas,372
+135,136,n02115913,"dhole, Cuon alpinus",fierce wild dog of the forests of central and southeast Asia that hunts in packs,n02115913,dhole,275
+136,137,n02486410,baboon,large terrestrial monkeys having doglike muzzles,n02486410,baboon,373
+137,138,n02487347,macaque,short-tailed monkey of rocky regions of Asia and Africa,n02487347,macaque,374
+138,139,n02099849,Chesapeake Bay retriever,American breed having a short thick oily coat ranging from brown to light tan,n02099849,Chesapeake_Bay_retriever,210
+139,140,n02108422,bull mastiff,large powerful breed developed by crossing the bulldog and the mastiff,n02108422,bull_mastiff,244
+140,141,n02104029,kuvasz,long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog,n02104029,kuvasz,223
+141,142,n02492035,"capuchin, ringtail, Cebus capucinus",monkey of Central America and South America having thick hair on the head that resembles a monk's cowl,n02492035,capuchin,379
+142,143,n02110958,"pug, pug-dog",small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle,n02110958,pug,255
+143,144,n02099429,curly-coated retriever,an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water,n02099429,curly-coated_retriever,207
+144,145,n02094258,Norwich terrier,English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears,n02094258,Norwich_terrier,187
+145,146,n02099267,flat-coated retriever,an English breed having a shiny black or liver-colored coat; retrieves game from land or water,n02099267,flat-coated_retriever,206
+146,147,n02395406,"hog, pig, grunter, squealer, Sus scrofa",domestic swine,n02395406,hog,342
+147,148,n02112350,keeshond,a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland,n02112350,keeshond,262
+148,149,n02109961,"Eskimo dog, husky",breed of heavy-coated Arctic sled dog,n02109961,Eskimo_dog,249
+149,150,n02101388,Brittany spaniel,tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat,n02101388,Brittany_spaniel,216
+150,151,n02113799,standard poodle,a breed or medium-sized poodles,n02113799,standard_poodle,268
+151,152,n02095570,Lakeland terrier,breed of wire-haired terrier originally from the Lake District of England and used for hunting,n02095570,Lakeland_terrier,190
+152,153,n02128757,"snow leopard, ounce, Panthera uncia",large feline of upland central Asia having long thick whitish fur,n02128757,snow_leopard,290
+153,154,n02101006,Gordon setter,a Scottish breed with a black-and-tan coat,n02101006,Gordon_setter,215
+154,155,n02115641,"dingo, warrigal, warragal, Canis dingo",wolflike yellowish-brown wild dog of Australia,n02115641,dingo,274
+155,156,n02097209,standard schnauzer,a medium-sized schnauzer,n02097209,standard_schnauzer,199
+156,157,n02342885,hamster,short-tailed Old World burrowing rodent with large cheek pouches,n02342885,hamster,334
+157,158,n02097474,"Tibetan terrier, chrysanthemum dog",breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails,n02097474,Tibetan_terrier,201
+158,159,n02120079,"Arctic fox, white fox, Alopex lagopus",thickly-furred fox of Arctic regions; brownish in summer and white in winter,n02120079,Arctic_fox,280
+159,160,n02095314,wire-haired fox terrier,a fox terrier with wiry hair,n02095314,wire-haired_fox_terrier,189
+160,161,n02088238,"basset, basset hound",smooth-haired breed of hound with short legs and long ears,n02088238,basset,162
+161,162,n02408429,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",an Asian buffalo that is often domesticated for use as a draft animal,n02408429,water_buffalo,347
+162,163,n02133161,"American black bear, black bear, Ursus americanus, Euarctos americanus",brown to black North American bear; smaller and less ferocious than the brown bear,n02133161,American_black_bear,296
+163,164,n02328150,"Angora, Angora rabbit",domestic breed of rabbit with long white silky hair,n02328150,Angora,333
+164,165,n02410509,bison,any of several large humped bovids having shaggy manes and large heads and short horns,n02410509,bison,348
+165,166,n02492660,"howler monkey, howler",monkey of tropical South American forests having a loud howling cry,n02492660,howler_monkey,380
+166,167,n02398521,"hippopotamus, hippo, river horse, Hippopotamus amphibius",massive thick-skinned herbivorous animal living in or around rivers of tropical Africa,n02398521,hippopotamus,345
+167,168,n02112137,"chow, chow chow",breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China,n02112137,chow,261
+168,169,n02510455,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae,n02510455,giant_panda,389
+169,170,n02093428,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",American breed of muscular terriers with a short close-lying stiff coat,n02093428,American_Staffordshire_terrier,181
+170,171,n02105855,"Shetland sheepdog, Shetland sheep dog, Shetland",a small sheepdog resembling a collie that was developed in the Shetland Islands,n02105855,Shetland_sheepdog,231
+171,172,n02111500,Great Pyrenees,bred of large heavy-coated white dogs resembling the Newfoundland,n02111500,Great_Pyrenees,258
+172,173,n02085620,Chihuahua,an old breed of tiny short-haired dog with protruding eyes from Mexico held to antedate Aztec civilization,n02085620,Chihuahua,152
+173,174,n02123045,"tabby, tabby cat",a cat with a grey or tawny coat mottled with black,n02123045,tabby,282
+174,175,n02490219,marmoset,small soft-furred South American and Central American monkey with claws instead of nails,n02490219,marmoset,378
+175,176,n02099712,Labrador retriever,breed originally from Labrador having a short black or golden-brown coat,n02099712,Labrador_retriever,209
+176,177,n02109525,"Saint Bernard, St Bernard",a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog,n02109525,Saint_Bernard,248
+177,178,n02454379,armadillo,burrowing chiefly nocturnal mammal with body covered with strong horny plates,n02454379,armadillo,364
+178,179,n02111889,"Samoyed, Samoyede",Siberian breed of white or cream-colored dog of the spitz family,n02111889,Samoyed,259
+179,180,n02088632,bluetick,a very fast American hound; white mottled with bluish grey,n02088632,bluetick,165
+180,181,n02090379,redbone,a speedy red or red-and-tan American hound,n02090379,redbone,169
+181,182,n02443114,"polecat, fitch, foulmart, foumart, Mustela putorius",dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened,n02443114,polecat,359
+182,183,n02361337,marmot,stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter,n02361337,marmot,337
+183,184,n02105412,kelpie,an Australian sheepdog with pointed ears,n02105412,kelpie,228
+184,185,n02483362,"gibbon, Hylobates lar",smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies,n02483362,gibbon,369
+185,186,n02437616,llama,wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump,n02437616,llama,356
+186,187,n02107312,miniature pinscher,small German version of a Doberman pinscher,n02107312,miniature_pinscher,238
+187,188,n02325366,"wood rabbit, cottontail, cottontail rabbit",common small rabbit of North America having greyish or brownish fur and a tail with a white underside; a host for Ixodes pacificus and Ixodes scapularis (Lyme disease ticks),n02325366,wood_rabbit,331
+188,189,n02091032,Italian greyhound,a toy dog developed from the greyhound,n02091032,Italian_greyhound,172
+189,190,n02129165,"lion, king of beasts, Panthera leo",large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male,n02129165,lion,292
+190,191,n02102318,"cocker spaniel, English cocker spaniel, cocker",a small breed with wavy silky hair; originally developed in England,n02102318,cocker_spaniel,220
+191,192,n02100877,"Irish setter, red setter",an Irish breed with a chestnut-brown or mahogany-red coat,n02100877,Irish_setter,214
+192,193,n02074367,"dugong, Dugong dugon",sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate,n02074367,dugong,150
+193,194,n02504013,"Indian elephant, Elephas maximus",Asian elephant having smaller ears and tusks primarily in the male,n02504013,Indian_elephant,386
+194,195,n02363005,beaver,large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges,n02363005,beaver,338
+195,196,n02102480,Sussex spaniel,an English breed with short legs and a golden liver-colored coat,n02102480,Sussex_spaniel,221
+196,197,n02113023,"Pembroke, Pembroke Welsh corgi",the smaller and straight-legged variety of corgi having pointed ears and a short tail,n02113023,Pembroke,264
+197,198,n02086646,Blenheim spaniel,red-and-white variety of English toy spaniel,n02086646,Blenheim_spaniel,157
+198,199,n02497673,"Madagascar cat, ring-tailed lemur, Lemur catta",small lemur having its tail barred with black,n02497673,Madagascar_cat,384
+199,200,n02087394,Rhodesian ridgeback,a powerful short-haired African hunting dog having a crest of reversed hair along the spine,n02087394,Rhodesian_ridgeback,160
+200,201,n02127052,"lynx, catamount",short-tailed wildcats with usually tufted ears; valued for their fur,n02127052,lynx,288
+201,202,n02116738,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area,n02116738,African_hunting_dog,276
+202,203,n02488291,langur,slender long-tailed monkey of Asia,n02488291,langur,375
+203,204,n02091244,"Ibizan hound, Ibizan Podenco",breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt,n02091244,Ibizan_hound,174
+204,205,n02114367,"timber wolf, grey wolf, gray wolf, Canis lupus",a wolf with a brindled grey coat living in forested northern regions of North America,n02114367,timber_wolf,270
+205,206,n02130308,"cheetah, chetah, Acinonyx jubatus",long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game,n02130308,cheetah,294
+206,207,n02089973,English foxhound,an English breed slightly larger than the American foxhounds originally used to hunt in packs,n02089973,English_foxhound,168
+207,208,n02105251,briard,old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat,n02105251,briard,227
+208,209,n02134418,"sloth bear, Melursus ursinus, Ursus ursinus",common coarse-haired long-snouted bear of south-central Asia,n02134418,sloth_bear,298
+209,210,n02093754,Border terrier,small rough-coated terrier of British origin,n02093754,Border_terrier,183
+210,211,n02106662,"German shepherd, German shepherd dog, German police dog, alsatian",breed of large shepherd dogs used in police work and as a guide for the blind,n02106662,German_shepherd,236
+211,212,n02444819,otter,freshwater carnivorous mammal having webbed and clawed feet and dark brown fur,n02444819,otter,361
+212,213,n01882714,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark,n01882714,koala,106
+213,214,n01871265,tusker,any mammal with prominent tusks (especially an elephant or wild boar),n01871265,tusker,102
+214,215,n01872401,"echidna, spiny anteater, anteater",a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to Australia,n01872401,echidna,103
+215,216,n01877812,"wallaby, brush kangaroo",any of various small or medium-sized kangaroos; often brightly colored,n01877812,wallaby,105
+216,217,n01873310,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae,n01873310,platypus,104
+217,218,n01883070,wombat,burrowing herbivorous Australian marsupials about the size of a badger,n01883070,wombat,107
+218,219,n04086273,"revolver, six-gun, six-shooter",a pistol with a revolving cylinder (usually having six chambers for bullets),n04086273,revolver,764
+219,220,n04507155,umbrella,a lightweight handheld collapsible canopy,n04507155,umbrella,880
+220,221,n04147183,schooner,sailing vessel used in former times,n04147183,schooner,781
+221,222,n04254680,soccer ball,an inflated ball used in playing soccer,n04254680,soccer_ball,806
+222,223,n02672831,"accordion, piano accordion, squeeze box",a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player,n02672831,accordion,402
+223,224,n02219486,"ant, emmet, pismire",social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers,n02219486,ant,311
+224,225,n02317335,"starfish, sea star",echinoderms characterized by five arms extending from a central disk,n02317335,starfish,328
+225,226,n01968897,"chambered nautilus, pearly nautilus, nautilus",cephalopod of the Indian and Pacific oceans having a spiral shell with pale pearly partitions,n01968897,chambered_nautilus,118
+226,227,n03452741,"grand piano, grand",a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs,n03452741,grand_piano,580
+227,228,n03642806,"laptop, laptop computer",a portable computer small enough to use in your lap,n03642806,laptop,621
+228,229,n07745940,strawberry,sweet fleshy red fruit,n07745940,strawberry,950
+229,230,n02690373,airliner,a commercial airplane that carries passengers,n02690373,airliner,405
+230,231,n04552348,"warplane, military plane",an aircraft designed and used for combat,n04552348,warplane,896
+231,232,n02692877,"airship, dirigible",a steerable self-propelled aircraft,n02692877,airship,406
+232,233,n02782093,balloon,large tough nonrigid bag filled with gas or heated air,n02782093,balloon,418
+233,234,n04266014,space shuttle,a reusable spacecraft with wings for a controlled descent through the Earth's atmosphere,n04266014,space_shuttle,813
+234,235,n03344393,fireboat,a boat equipped to fight fires on ships or along a waterfront,n03344393,fireboat,555
+235,236,n03447447,gondola,long narrow flat-bottomed boat propelled by sculling; traditionally used on canals of Venice,n03447447,gondola,577
+236,237,n04273569,speedboat,a fast motorboat,n04273569,speedboat,815
+237,238,n03662601,lifeboat,a strong sea boat designed to rescue people from a sinking ship,n03662601,lifeboat,626
+238,239,n02951358,canoe,small and light boat; pointed at both ends; propelled with a paddle,n02951358,canoe,473
+239,240,n04612504,yawl,a ship's small boat (usually rowed by 4 or 6 oars),n04612504,yawl,915
+240,241,n02981792,catamaran,a sailboat with two parallel hulls held together by single deck,n02981792,catamaran,485
+241,242,n04483307,trimaran,a fast sailboat with 3 parallel hulls,n04483307,trimaran,872
+242,243,n03095699,"container ship, containership, container vessel","a cargo ship designed to hold containerized cargoes; ""the weight of the documentation of all the consignments on board a contemporary container ship can exceed 90 pounds""",n03095699,container_ship,511
+243,244,n03673027,"liner, ocean liner",a large commercial ship (especially one that carries passengers on a regular schedule),n03673027,liner,629
+244,245,n03947888,"pirate, pirate ship",a ship that is manned by pirates,n03947888,pirate,725
+245,246,n02687172,"aircraft carrier, carrier, flattop, attack aircraft carrier",a large warship that carries planes and has a long flat deck for takeoffs and landings,n02687172,aircraft_carrier,404
+246,247,n04347754,"submarine, pigboat, sub, U-boat",a submersible warship usually armed with torpedoes,n04347754,submarine,834
+247,248,n04606251,wreck,a ship that has been destroyed at sea,n04606251,wreck,914
+248,249,n03478589,half track,a motor vehicle propelled by half tracks; frequently used by the military,n03478589,half_track,587
+249,250,n04389033,"tank, army tank, armored combat vehicle, armoured combat vehicle",an enclosed armored military vehicle; has a cannon and moves on caterpillar treads,n04389033,tank,848
+250,251,n03773504,missile,a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control,n03773504,missile,658
+251,252,n02860847,"bobsled, bobsleigh, bob",a long racing sled (for 2 or more people) with a steering mechanism,n02860847,bobsled,451
+252,253,n03218198,"dogsled, dog sled, dog sleigh",a sled pulled by dogs,n03218198,dogsled,538
+253,254,n02835271,"bicycle-built-for-two, tandem bicycle, tandem",a bicycle with two sets of pedals and two seats,n02835271,bicycle-built-for-two,445
+254,255,n03792782,"mountain bike, all-terrain bike, off-roader",a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country,n03792782,mountain_bike,672
+255,256,n03393912,freight car,a railway car that carries freight,n03393912,freight_car,566
+256,257,n03895866,"passenger car, coach, carriage",a railcar where passengers ride,n03895866,passenger_car,706
+257,258,n02797295,"barrow, garden cart, lawn cart, wheelbarrow",a cart for carrying small loads; has handles and one or more wheels,n02797295,barrow,429
+258,259,n04204347,shopping cart,a handcart that holds groceries or other goods while shopping,n04204347,shopping_cart,792
+259,260,n03791053,"motor scooter, scooter",a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel,n03791053,motor_scooter,671
+260,261,n03384352,forklift,a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them,n03384352,forklift,562
+261,262,n03272562,electric locomotive,a locomotive that is powered by an electric motor,n03272562,electric_locomotive,548
+262,263,n04310018,steam locomotive,a locomotive powered by a steam engine,n04310018,steam_locomotive,821
+263,264,n02704792,"amphibian, amphibious vehicle",a flat-bottomed motor vehicle that can travel on land or water,n02704792,amphibian,409
+264,265,n02701002,ambulance,a vehicle that takes people to and from hospitals,n02701002,ambulance,408
+265,266,n02814533,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",a car that has a long body and rear door with space behind rear seat,n02814533,beach_wagon,437
+266,267,n02930766,"cab, hack, taxi, taxicab",a car driven by a person whose job is to take passengers where they want to go in exchange for money,n02930766,cab,469
+267,268,n03100240,convertible,a car that has top that can be folded or removed,n03100240,convertible,512
+268,269,n03594945,"jeep, landrover",a car suitable for traveling over rough terrain,n03594945,jeep,610
+269,270,n03670208,"limousine, limo",large luxurious car; usually driven by a chauffeur,n03670208,limousine,628
+270,271,n03770679,minivan,a small box-shaped passenger van; usually has removable seats; used as a family car,n03770679,minivan,657
+271,272,n03777568,Model T,the first widely available automobile powered by a gasoline engine; mass-produced by Henry Ford from 1908 to 1927,n03777568,Model_T,662
+272,273,n04037443,"racer, race car, racing car",a fast car that competes in races,n04037443,racer,752
+273,274,n04285008,"sports car, sport car",a small low car with a high-powered engine; usually seats two persons,n04285008,sports_car,818
+274,275,n03444034,go-kart,a small low motor vehicle with four wheels and an open framework; used for racing,n03444034,go-kart,574
+275,276,n03445924,"golfcart, golf cart",a small motor vehicle in which golfers can ride between shots,n03445924,golfcart,576
+276,277,n03785016,moped,a motorbike that can be pedaled or driven by a low-powered gasoline engine,n03785016,moped,666
+277,278,n04252225,"snowplow, snowplough",a vehicle used to push snow from roads,n04252225,snowplow,804
+278,279,n03345487,"fire engine, fire truck",any of various large trucks that carry firemen and equipment to the site of a fire,n03345487,fire_engine,556
+279,280,n03417042,"garbage truck, dustcart","a truck for collecting domestic refuse; ""in Britain a garbage truck is called a dustcart""",n03417042,garbage_truck,570
+280,281,n03930630,"pickup, pickup truck",a light truck with an open body and low sides and a tailboard,n03930630,pickup,718
+281,282,n04461696,"tow truck, tow car, wrecker",a truck equipped to hoist and pull wrecked cars (or to remove cars from no-parking zones),n04461696,tow_truck,865
+282,283,n04467665,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",a truck consisting of a tractor and trailer together,n04467665,trailer_truck,868
+283,284,n03796401,moving van,a van used for moving home or office furniture,n03796401,moving_van,676
+284,285,n03977966,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",van used by police to transport prisoners,n03977966,police_van,735
+285,286,n04065272,"recreational vehicle, RV, R.V.",a motorized wheeled vehicle used for camping or other recreational activities,n04065272,recreational_vehicle,758
+286,287,n04335435,"streetcar, tram, tramcar, trolley, trolley car",a wheeled vehicle that runs on rails and is propelled by electricity,n04335435,streetcar,830
+287,288,n04252077,snowmobile,tracked vehicle for travel on snow having skis in front,n04252077,snowmobile,803
+288,289,n04465501,tractor,a wheeled vehicle with large wheels; used in farming and other applications,n04465501,tractor,867
+289,290,n03776460,"mobile home, manufactured home",a large house trailer that can be connected to utilities and can be parked in one place and used as permanent housing,n03776460,mobile_home,661
+290,291,n04482393,"tricycle, trike, velocipede",a vehicle with three wheels that is moved by foot pedals,n04482393,tricycle,871
+291,292,n04509417,"unicycle, monocycle",a vehicle with a single wheel that is driven by pedals,n04509417,unicycle,881
+292,293,n03538406,"horse cart, horse-cart",heavy cart; drawn by a horse; used for farm work,n03538406,horse_cart,604
+293,294,n03599486,"jinrikisha, ricksha, rickshaw",a small two-wheeled cart for one passenger; pulled by one person,n03599486,jinrikisha,613
+294,295,n03868242,oxcart,a cart that is drawn by an ox,n03868242,oxcart,691
+295,296,n02804414,bassinet,a basket (usually hooded) used as a baby's bed,n02804414,bassinet,432
+296,297,n03125729,cradle,a baby bed with sides and rockers,n03125729,cradle,517
+297,298,n03131574,"crib, cot",baby bed with high sides made of slats,n03131574,crib,521
+298,299,n03388549,four-poster,a bed with posts at the four corners that can be used to support a canopy or curtains,n03388549,four-poster,565
+299,300,n02870880,bookcase,a piece of furniture with shelves for storing books,n02870880,bookcase,454
+300,301,n03018349,"china cabinet, china closet",a cabinet (usually with glass doors) for storing and displaying china,n03018349,china_cabinet,496
+301,302,n03742115,"medicine chest, medicine cabinet",cabinet that holds medicines and toiletries,n03742115,medicine_chest,649
+302,303,n03016953,"chiffonier, commode",a tall elegant chest of drawers,n03016953,chiffonier,494
+303,304,n04380533,table lamp,a lamp that sits on a table,n04380533,table_lamp,847
+304,305,n03337140,"file, file cabinet, filing cabinet",office furniture consisting of a container for keeping papers in order,n03337140,file,554
+305,306,n03891251,park bench,a bench in a public park,n03891251,park_bench,704
+306,307,n02791124,barber chair,a large fixed adjustable chair in which barbers seat their customers,n02791124,barber_chair,424
+307,308,n04429376,throne,"the chair of state for a monarch, bishop, etc.; ""the king sat on his throne""",n04429376,throne,858
+308,309,n03376595,folding chair,a chair that can be folded flat for storage,n03376595,folding_chair,560
+309,310,n04099969,"rocking chair, rocker",a chair mounted on rockers,n04099969,rocking_chair,766
+310,311,n04344873,"studio couch, day bed",convertible consisting of an upholstered couch that can be converted into a double bed,n04344873,studio_couch,832
+311,312,n04447861,toilet seat,the hinged seat on a toilet,n04447861,toilet_seat,862
+312,313,n03179701,desk,a piece of furniture with a writing surface and usually drawers or other compartments,n03179701,desk,527
+313,314,n03982430,"pool table, billiard table, snooker table",game equipment consisting of a heavy table on which pool is played,n03982430,pool_table,737
+314,315,n03201208,"dining table, board","a table at which meals are served; ""he helped her clear the dining table""; ""a feast was spread upon the board""",n03201208,dining_table,533
+315,316,n03290653,entertainment center,a wall unit containing sound and television systems,n03290653,entertainment_center,549
+316,317,n04550184,"wardrobe, closet, press",a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes,n04550184,wardrobe,895
+317,318,n07742313,Granny Smith,apple with a green skin and hard tart flesh,n07742313,Granny_Smith,949
+318,319,n07747607,orange,round yellow to orange fruit of any of several citrus trees,n07747607,orange,951
+319,320,n07749582,lemon,yellow oval fruit with juicy acidic flesh,n07749582,lemon,952
+320,321,n07753113,fig,fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried,n07753113,fig,953
+321,322,n07753275,"pineapple, ananas",large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated,n07753275,pineapple,954
+322,323,n07753592,banana,elongated crescent-shaped yellow fruit with soft sweet flesh,n07753592,banana,955
+323,324,n07754684,"jackfruit, jak, jack",immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted,n07754684,jackfruit,956
+324,325,n07760859,custard apple,the fruit of any of several tropical American trees of the genus Annona having soft edible pulp,n07760859,custard_apple,957
+325,326,n07768694,pomegranate,large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind,n07768694,pomegranate,958
+326,327,n12267677,acorn,fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base,n12267677,acorn,989
+327,328,n12620546,"hip, rose hip, rosehip",the fruit of a rose plant,n12620546,hip,990
+328,329,n13133613,"ear, spike, capitulum",fruiting spike of a cereal plant especially corn,n13133613,ear,999
+329,330,n11879895,rapeseed,seed of rape plants; source of an edible oil,n11879895,rapeseed,985
+330,331,n12144580,corn,the dried grains or kernels or corn used as animal feed or ground for meal,n12144580,corn,988
+331,332,n12768682,"buckeye, horse chestnut, conker",the inedible nutlike seed of the horse chestnut,n12768682,buckeye,991
+332,333,n03854065,"organ, pipe organ",wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard,n03854065,organ,688
+333,334,n04515003,"upright, upright piano",a piano with a vertical sounding board,n04515003,upright,882
+334,335,n03017168,"chime, bell, gong",a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument,n03017168,chime,495
+335,336,n03249569,"drum, membranophone, tympan",a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end,n03249569,drum,542
+336,337,n03447721,"gong, tam-tam",a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick,n03447721,gong,578
+337,338,n03720891,maraca,a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs,n03720891,maraca,642
+338,339,n03721384,"marimba, xylophone",a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets,n03721384,marimba,643
+339,340,n04311174,steel drum,a concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin),n04311174,steel_drum,823
+340,341,n02787622,banjo,a stringed instrument of the guitar family that has long neck and circular body,n02787622,banjo,421
+341,342,n02992211,"cello, violoncello",a large stringed instrument; seated player holds it upright while playing,n02992211,cello,487
+342,343,n04536866,"violin, fiddle",bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow,n04536866,violin,890
+343,344,n03495258,harp,a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers,n03495258,harp,595
+344,345,n02676566,acoustic guitar,sound is not amplified by electrical means,n02676566,acoustic_guitar,403
+345,346,n03272010,electric guitar,a guitar whose sound is amplified by electrical means,n03272010,electric_guitar,547
+346,347,n03110669,"cornet, horn, trumpet, trump",a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves,n03110669,cornet,514
+347,348,n03394916,"French horn, horn",a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves,n03394916,French_horn,567
+348,349,n04487394,trombone,a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide,n04487394,trombone,876
+349,350,n03494278,"harmonica, mouth organ, harp, mouth harp",a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole,n03494278,harmonica,594
+350,351,n03840681,"ocarina, sweet potato",egg-shaped terra cotta wind instrument with a mouthpiece and finger holes,n03840681,ocarina,685
+351,352,n03884397,"panpipe, pandean pipe, syrinx",a primitive wind instrument consisting of several parallel pipes bound together,n03884397,panpipe,700
+352,353,n02804610,bassoon,a double-reed instrument; the tenor of the oboe family,n02804610,bassoon,433
+353,354,n03838899,"oboe, hautboy, hautbois",a slender double-reed instrument; a woodwind with a conical bore and a double-reed mouthpiece,n03838899,oboe,684
+354,355,n04141076,"sax, saxophone",a single-reed woodwind with a conical bore,n04141076,sax,777
+355,356,n03372029,"flute, transverse flute",a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown,n03372029,flute,559
+356,357,n11939491,daisy,any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single whorl,n11939491,daisy,986
+357,358,n12057211,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum","maroon to purple-brown orchid with yellow lip; Europe, North America and Japan",n12057211,yellow_lady's_slipper,987
+358,359,n09246464,"cliff, drop, drop-off","a steep high face of rock; ""he stood on a high cliff overlooking the town""; ""a steep drop""",n09246464,cliff,973
+359,360,n09468604,"valley, vale",a long depression in the surface of the land that usually contains a river,n09468604,valley,980
+360,361,n09193705,alp,any high mountain,n09193705,alp,971
+361,362,n09472597,volcano,a mountain formed by volcanic material,n09472597,volcano,981
+362,363,n09399592,"promontory, headland, head, foreland",a natural elevation (especially a rocky one that juts out into the sea),n09399592,promontory,977
+363,364,n09421951,"sandbar, sand bar",a bar of sand,n09421951,sandbar,978
+364,365,n09256479,coral reef,a reef consisting of coral consolidated into limestone,n09256479,coral_reef,974
+365,366,n09332890,"lakeside, lakeshore",the shore of a lake,n09332890,lakeside,976
+366,367,n09428293,"seashore, coast, seacoast, sea-coast",the shore of a sea or ocean,n09428293,seashore,979
+367,368,n09288635,geyser,a spring that discharges hot water and steam,n09288635,geyser,975
+368,369,n03498962,hatchet,a small ax with a short handle used with one hand (usually to chop wood),n03498962,hatchet,597
+369,370,n03041632,"cleaver, meat cleaver, chopper",a butcher's knife having a large square blade,n03041632,cleaver,500
+370,371,n03658185,"letter opener, paper knife, paperknife",dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books,n03658185,letter_opener,624
+371,372,n03954731,"plane, carpenter's plane, woodworking plane","a carpenter's hand tool with an adjustable blade for smoothing or shaping wood; ""the cabinetmaker used a plane for the finish work""",n03954731,plane,727
+372,373,n03995372,power drill,a power tool for drilling holes into hard materials,n03995372,power_drill,741
+373,374,n03649909,"lawn mower, mower",garden tool for mowing grass on lawns,n03649909,lawn_mower,622
+374,375,n03481172,hammer,a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking,n03481172,hammer,588
+375,376,n03109150,"corkscrew, bottle screw",a bottle opener that pulls corks,n03109150,corkscrew,513
+376,377,n02951585,"can opener, tin opener",a device for cutting cans open,n02951585,can_opener,474
+377,378,n03970156,"plunger, plumber's helper",hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains,n03970156,plunger,732
+378,379,n04154565,screwdriver,a hand tool for driving screws; has a tip that fits into the head of a screw,n04154565,screwdriver,785
+379,380,n04208210,shovel,a hand tool for lifting loose material; consists of a curved container or scoop and a handle,n04208210,shovel,793
+380,381,n03967562,"plow, plough",a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing,n03967562,plow,731
+381,382,n03000684,"chain saw, chainsaw",portable power saw; teeth linked to form an endless chain,n03000684,chain_saw,492
+382,383,n01514668,cock,adult male bird,n01514668,cock,8
+383,384,n01514859,hen,adult female bird,n01514859,hen,9
+384,385,n01518878,"ostrich, Struthio camelus",fast-running African flightless bird with two-toed feet; largest living bird,n01518878,ostrich,10
+385,386,n01530575,"brambling, Fringilla montifringilla",Eurasian finch,n01530575,brambling,11
+386,387,n01531178,"goldfinch, Carduelis carduelis",small European finch having a crimson face and yellow-and-black wings,n01531178,goldfinch,12
+387,388,n01532829,"house finch, linnet, Carpodacus mexicanus",small finch originally of the western United States and Mexico,n01532829,house_finch,13
+388,389,n01534433,"junco, snowbird",small North American finch seen chiefly in winter,n01534433,junco,14
+389,390,n01537544,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",small deep blue North American bunting,n01537544,indigo_bunting,15
+390,391,n01558993,"robin, American robin, Turdus migratorius",large American thrush having a rust-red breast and abdomen,n01558993,robin,16
+391,392,n01560419,bulbul,nightingale spoken of in Persian poetry,n01560419,bulbul,17
+392,393,n01580077,jay,crested largely blue bird,n01580077,jay,18
+393,394,n01582220,magpie,long-tailed black-and-white crow that utters a raucous chattering call,n01582220,magpie,19
+394,395,n01592084,chickadee,any of various small grey-and-black songbirds of North America,n01592084,chickadee,20
+395,396,n01601694,"water ouzel, dipper",small stocky diving bird without webbed feet; frequents fast-flowing streams and feeds along the bottom,n01601694,water_ouzel,21
+396,397,n01608432,kite,any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals,n01608432,kite,22
+397,398,n01614925,"bald eagle, American eagle, Haliaeetus leucocephalus",a large eagle of North America that has a white head and dark wings and body,n01614925,bald_eagle,23
+398,399,n01616318,vulture,any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion,n01616318,vulture,24
+399,400,n01622779,"great grey owl, great gray owl, Strix nebulosa",large dish-faced owl of northern North America and western Eurasia,n01622779,great_grey_owl,25
+400,401,n01795545,black grouse,grouse of which the male is bluish-black,n01795545,black_grouse,81
+401,402,n01796340,ptarmigan,large Arctic and subarctic grouse with feathered feet and usually white winter plumage,n01796340,ptarmigan,82
+402,403,n01797886,"ruffed grouse, partridge, Bonasa umbellus",valued as a game bird in eastern United States and Canada,n01797886,ruffed_grouse,83
+403,404,n01798484,"prairie chicken, prairie grouse, prairie fowl",brown mottled North American grouse of western prairies,n01798484,prairie_chicken,84
+404,405,n01806143,peacock,male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots,n01806143,peacock,85
+405,406,n01806567,quail,small gallinaceous game birds,n01806567,quail,86
+406,407,n01807496,partridge,small Old World gallinaceous game birds,n01807496,partridge,87
+407,408,n01817953,"African grey, African gray, Psittacus erithacus",commonly domesticated grey parrot with red-and-black tail and white face; native to equatorial Africa,n01817953,African_grey,88
+408,409,n01818515,macaw,long-tailed brilliantly colored parrot of Central America and South America; among the largest and showiest of parrots,n01818515,macaw,89
+409,410,n01819313,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",white cockatoo with a yellow erectile crest,n01819313,sulphur-crested_cockatoo,90
+410,411,n01820546,lorikeet,any of various small lories,n01820546,lorikeet,91
+411,412,n01824575,coucal,Old World ground-living cuckoo having a long dagger-like hind claw,n01824575,coucal,92
+412,413,n01828970,bee eater,colorful chiefly tropical Old World bird having a strong graceful flight; feeds on especially bees,n01828970,bee_eater,93
+413,414,n01829413,hornbill,bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers,n01829413,hornbill,94
+414,415,n01833805,hummingbird,tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight,n01833805,hummingbird,95
+415,416,n01843065,jacamar,tropical American insectivorous bird having a long sharp bill and iridescent green or bronze plumage,n01843065,jacamar,96
+416,417,n01843383,toucan,brilliantly colored arboreal fruit-eating bird of tropical America having a very large thin-walled beak,n01843383,toucan,97
+417,418,n01847000,drake,adult male of a wild or domestic duck,n01847000,drake,98
+418,419,n01855032,"red-breasted merganser, Mergus serrator",widely distributed merganser of America and Europe,n01855032,red-breasted_merganser,99
+419,420,n01855672,goose,web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks,n01855672,goose,100
+420,421,n01860187,"black swan, Cygnus atratus",large Australian swan having black plumage and a red bill,n01860187,black_swan,101
+421,422,n02002556,"white stork, Ciconia ciconia",the common stork of Europe; white with black wing feathers and a red bill,n02002556,white_stork,128
+422,423,n02002724,"black stork, Ciconia nigra",Old World stork that is glossy black above and white below,n02002724,black_stork,129
+423,424,n02006656,spoonbill,wading birds having a long flat bill with a tip like a spoon,n02006656,spoonbill,130
+424,425,n02007558,flamingo,large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes,n02007558,flamingo,131
+425,426,n02009912,"American egret, great white heron, Egretta albus",a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus,n02009912,American_egret,133
+426,427,n02009229,"little blue heron, Egretta caerulea",small bluish-grey heron of the western hemisphere,n02009229,little_blue_heron,132
+427,428,n02011460,bittern,relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes,n02011460,bittern,134
+428,429,n02012849,crane,large long-necked wading bird of marshes and plains in many parts of the world,n02012849,crane,135
+429,430,n02013706,"limpkin, Aramus pictus","wading bird of Florida, Cuba and Jamaica having a drooping bill and a distinctive wailing call",n02013706,limpkin,136
+430,431,n02018207,"American coot, marsh hen, mud hen, water hen, Fulica americana",a coot found in North America,n02018207,American_coot,138
+431,432,n02018795,bustard,large heavy-bodied chiefly terrestrial game bird capable of powerful swift flight; classified with wading birds but frequents grassy steppes,n02018795,bustard,139
+432,433,n02025239,"ruddy turnstone, Arenaria interpres",common Arctic turnstone that winters in South America and Australia,n02025239,ruddy_turnstone,140
+433,434,n02027492,"red-backed sandpiper, dunlin, Erolia alpina",small common sandpiper that breeds in northern or Arctic regions and winters in southern United States or Mediterranean regions,n02027492,red-backed_sandpiper,141
+434,435,n02028035,"redshank, Tringa totanus",a common Old World wading bird with long red legs,n02028035,redshank,142
+435,436,n02033041,dowitcher,shorebird of the sandpiper family that resembles a snipe,n02033041,dowitcher,143
+436,437,n02037110,"oystercatcher, oyster catcher",black-and-white shorebird with stout legs and bill; feed on oysters etc.,n02037110,oystercatcher,144
+437,438,n02017213,"European gallinule, Porphyrio porphyrio",purple gallinule of southern Europe,n02017213,European_gallinule,137
+438,439,n02051845,pelican,large long-winged warm-water seabird having a large bill with a distensible pouch for fish,n02051845,pelican,145
+439,440,n02056570,"king penguin, Aptenodytes patagonica",large penguin on islands bordering the Antarctic Circle,n02056570,king_penguin,146
+440,441,n02058221,"albatross, mollymawk",large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight,n02058221,albatross,147
+441,442,n01484850,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",large aggressive shark widespread in warm seas; known to attack humans,n01484850,great_white_shark,3
+442,443,n01491361,"tiger shark, Galeocerdo cuvieri",large dangerous warm-water shark with striped or spotted body,n01491361,tiger_shark,4
+443,444,n01494475,"hammerhead, hammerhead shark",medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous,n01494475,hammerhead,5
+444,445,n01496331,"electric ray, crampfish, numbfish, torpedo",any sluggish bottom-dwelling ray of the order Torpediniformes having a rounded body and electric organs on each side of the head capable of emitting strong electric discharges,n01496331,electric_ray,6
+445,446,n01498041,stingray,large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds,n01498041,stingray,7
+446,447,n02514041,"barracouta, snoek","a large marine food fish common on the coasts of Australia, New Zealand, and southern Africa",n02514041,barracouta,390
+447,448,n02536864,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",small salmon of northern Pacific coasts and the Great Lakes,n02536864,coho,392
+448,449,n01440764,"tench, Tinca tinca",freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water,n01440764,tench,1
+449,450,n01443537,"goldfish, Carassius auratus",small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes,n01443537,goldfish,2
+450,451,n02526121,eel,voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins,n02526121,eel,391
+451,452,n02606052,"rock beauty, Holocanthus tricolor",gold and black butterflyfish found from West Indies to Brazil,n02606052,rock_beauty,393
+452,453,n02607072,anemone fish,live associated with sea anemones,n02607072,anemone_fish,394
+453,454,n02643566,lionfish,brightly striped fish of the tropical Pacific having elongated spiny fins,n02643566,lionfish,397
+454,455,n02655020,"puffer, pufferfish, blowfish, globefish",any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers,n02655020,puffer,398
+455,456,n02640242,sturgeon,large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone,n02640242,sturgeon,395
+456,457,n02641379,"gar, garfish, garpike, billfish, Lepisosteus osseus",primitive predaceous North American fish covered with hard scales and having long jaws with needlelike teeth,n02641379,gar,396
+457,458,n01664065,"loggerhead, loggerhead turtle, Caretta caretta",very large carnivorous sea turtle; wide-ranging in warm open seas,n01664065,loggerhead,34
+458,459,n01665541,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",wide-ranging marine turtle with flexible leathery carapace; largest living turtle,n01665541,leatherback_turtle,35
+459,460,n01667114,mud turtle,bottom-dwelling freshwater turtle inhabiting muddy rivers of North America and Central America,n01667114,mud_turtle,36
+460,461,n01667778,terrapin,any of various edible North American web-footed turtles living in fresh or brackish water,n01667778,terrapin,37
+461,462,n01669191,"box turtle, box tortoise",chiefly terrestrial turtle of North America; shell can be closed tightly,n01669191,box_turtle,38
+462,463,n01675722,banded gecko,any of several geckos with dark bands across the body and differing from typical geckos in having movable eyelids; of United States southwest and Florida Gulf Coast,n01675722,banded_gecko,39
+463,464,n01677366,"common iguana, iguana, Iguana iguana",large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America,n01677366,common_iguana,40
+464,465,n01682714,"American chameleon, anole, Anolis carolinensis",small arboreal tropical American insectivorous lizards with the ability to change skin color,n01682714,American_chameleon,41
+465,466,n01685808,"whiptail, whiptail lizard",any of numerous very agile and alert New World lizards,n01685808,whiptail,42
+466,467,n01687978,agama,small terrestrial lizard of warm regions of the Old World,n01687978,agama,43
+467,468,n01688243,"frilled lizard, Chlamydosaurus kingi",large arboreal insectivorous Australian lizard with a ruff of skin around the neck,n01688243,frilled_lizard,44
+468,469,n01689811,alligator lizard,slim short-limbed lizard having a distinctive fold on each side that permits expansion; of western North America,n01689811,alligator_lizard,45
+469,470,n01692333,"Gila monster, Heloderma suspectum",large orange and black lizard of southwestern United States; not dangerous unless molested,n01692333,Gila_monster,46
+470,471,n01693334,"green lizard, Lacerta viridis",a common Eurasian lizard about a foot long,n01693334,green_lizard,47
+471,472,n01694178,"African chameleon, Chamaeleo chamaeleon",a chameleon found in Africa,n01694178,African_chameleon,48
+472,473,n01695060,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",the largest lizard in the world (10 feet); found on Indonesian islands,n01695060,Komodo_dragon,49
+473,474,n01704323,triceratops,huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill,n01704323,triceratops,52
+474,475,n01697457,"African crocodile, Nile crocodile, Crocodylus niloticus",a dangerous crocodile widely distributed in Africa,n01697457,African_crocodile,50
+475,476,n01698640,"American alligator, Alligator mississipiensis",large alligator of the southeastern United States,n01698640,American_alligator,51
+476,477,n01728572,"thunder snake, worm snake, Carphophis amoenus",small reddish wormlike snake of eastern United States,n01728572,thunder_snake,53
+477,478,n01728920,"ringneck snake, ring-necked snake, ring snake",any of numerous small nonvenomous North American snakes with a yellow or orange ring around the neck,n01728920,ringneck_snake,54
+478,479,n01729322,"hognose snake, puff adder, sand viper",harmless North American snake with upturned nose; may spread its head and neck or play dead when disturbed,n01729322,hognose_snake,55
+479,480,n01729977,"green snake, grass snake",either of two North American chiefly insectivorous snakes that are green in color,n01729977,green_snake,56
+480,481,n01734418,"king snake, kingsnake",any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals,n01734418,king_snake,57
+481,482,n01735189,"garter snake, grass snake",any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes,n01735189,garter_snake,58
+482,483,n01737021,water snake,any of various mostly harmless snakes that live in or near water,n01737021,water_snake,59
+483,484,n01739381,vine snake,slender arboreal snake found from southern Arizona to Bolivia,n01739381,vine_snake,60
+484,485,n01740131,"night snake, Hypsiglena torquata",nocturnal prowler of western United States and Mexico,n01740131,night_snake,61
+485,486,n01742172,"boa constrictor, Constrictor constrictor",very large boa of tropical America and West Indies,n01742172,boa_constrictor,62
+486,487,n01744401,"rock python, rock snake, Python sebae",very large python of tropical and southern Africa,n01744401,rock_python,63
+487,488,n01748264,"Indian cobra, Naja naja",a cobra of tropical Africa and Asia,n01748264,Indian_cobra,64
+488,489,n01749939,green mamba,green phase of the black mamba,n01749939,green_mamba,65
+489,490,n01751748,sea snake,any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom,n01751748,sea_snake,66
+490,491,n01753488,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye,n01753488,horned_viper,67
+491,492,n01755581,"diamondback, diamondback rattlesnake, Crotalus adamanteus",large deadly rattlesnake with diamond-shaped markings,n01755581,diamondback,68
+492,493,n01756291,"sidewinder, horned rattlesnake, Crotalus cerastes",small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve,n01756291,sidewinder,69
+493,494,n01629819,"European fire salamander, Salamandra salamandra",a kind of European salamander,n01629819,European_fire_salamander,26
+494,495,n01630670,"common newt, Triturus vulgaris",small semiaquatic salamander,n01630670,common_newt,27
+495,496,n01631663,eft,a newt in its terrestrial stage of development,n01631663,eft,28
+496,497,n01632458,"spotted salamander, Ambystoma maculatum",glossy black North American salamander with yellow spots,n01632458,spotted_salamander,29
+497,498,n01632777,"axolotl, mud puppy, Ambystoma mexicanum",larval salamander of mountain lakes of Mexico that usually lives without metamorphosing,n01632777,axolotl,30
+498,499,n01641577,"bullfrog, Rana catesbeiana",largest North American frog; highly aquatic with a deep-pitched voice,n01641577,bullfrog,31
+499,500,n01644373,"tree frog, tree-frog",any of various Old World arboreal frogs distinguished from true frogs by adhesive suckers on the toes,n01644373,tree_frog,32
+500,501,n01644900,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",western North American frog with a taillike copulatory organ,n01644900,tailed_frog,33
+501,502,n04579432,whistle,acoustic device that forces air or steam against an edge or into a cavity and so produces a loud shrill sound,n04579432,whistle,903
+502,503,n04592741,wing,one of the horizontal airfoils on either side of the fuselage of an airplane,n04592741,wing,909
+503,504,n03876231,paintbrush,a brush used as an applicator (to apply paint),n03876231,paintbrush,697
+504,505,n03483316,"hand blower, blow dryer, blow drier, hair dryer, hair drier",a hand-held electric blower that can blow warm air onto the hair; used for styling hair,n03483316,hand_blower,590
+505,506,n03868863,oxygen mask,a breathing device that is placed over the mouth and nose; supplies oxygen from an attached storage tank,n03868863,oxygen_mask,692
+506,507,n04251144,snorkel,breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the water,n04251144,snorkel,802
+507,508,n03691459,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance,n03691459,loudspeaker,633
+508,509,n03759954,"microphone, mike",device for converting sound waves into electrical energy,n03759954,microphone,651
+509,510,n04152593,"screen, CRT screen",the display that is electronically created on the surface of the large end of a cathode-ray tube,n04152593,screen,783
+510,511,n03793489,"mouse, computer mouse","a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad; ""a mouse takes much more room than a trackball""",n03793489,mouse,674
+511,512,n03271574,"electric fan, blower",a fan run by an electric motor,n03271574,electric_fan,546
+512,513,n03843555,oil filter,a filter that removes impurities from the oil used to lubricate an internal-combustion engine,n03843555,oil_filter,687
+513,514,n04332243,strainer,a filter to retain larger pieces while smaller pieces and liquids pass through,n04332243,strainer,829
+514,515,n04265275,space heater,heater consisting of a self-contained (usually portable) unit to warm a room,n04265275,space_heater,812
+515,516,n04330267,stove,any heating apparatus,n04330267,stove,828
+516,517,n03467068,guillotine,instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people,n03467068,guillotine,584
+517,518,n02794156,barometer,an instrument that measures atmospheric pressure,n02794156,barometer,427
+518,519,n04118776,"rule, ruler",measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths,n04118776,rule,770
+519,520,n03841143,"odometer, hodometer, mileometer, milometer",a meter that shows mileage traversed,n03841143,odometer,686
+520,521,n04141975,"scale, weighing machine",a measuring instrument for weighing; shows amount of mass,n04141975,scale,779
+521,522,n02708093,analog clock,a clock that displays the time of day by the position of hands on a dial,n02708093,analog_clock,410
+522,523,n03196217,digital clock,a clock that displays the time of day digitally,n03196217,digital_clock,531
+523,524,n04548280,wall clock,a clock mounted on a wall,n04548280,wall_clock,893
+524,525,n03544143,hourglass,a sandglass that runs for sixty minutes,n03544143,hourglass,605
+525,526,n04355338,sundial,timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial,n04355338,sundial,836
+526,527,n03891332,parking meter,a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time,n03891332,parking_meter,705
+527,528,n04328186,"stopwatch, stop watch",a timepiece that can be started or stopped for exact timing (as of a race),n04328186,stopwatch,827
+528,529,n03197337,digital watch,a watch with a digital display,n03197337,digital_watch,532
+529,530,n04317175,stethoscope,a medical instrument for listening to the sounds generated inside the body,n04317175,stethoscope,824
+530,531,n04376876,syringe,a medical instrument used to inject or withdraw fluids,n04376876,syringe,846
+531,532,n03706229,magnetic compass,compass based on an indicator (as a magnetic needle) that points to the magnetic north,n03706229,magnetic_compass,636
+532,533,n02841315,"binoculars, field glasses, opera glasses",an optical instrument designed for simultaneous use by both eyes,n02841315,binoculars,448
+533,534,n04009552,projector,an optical instrument that projects an enlarged image onto a screen,n04009552,projector,746
+534,535,n04356056,"sunglasses, dark glasses, shades","spectacles that are darkened or polarized to protect the eyes from the glare of the sun; ""he was wearing a pair of mirrored shades""",n04356056,sunglasses,838
+535,536,n03692522,"loupe, jeweler's loupe",small magnifying glass (usually set in an eyepiece) used by jewelers and horologists,n03692522,loupe,634
+536,537,n04044716,"radio telescope, radio reflector",astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources,n04044716,radio_telescope,756
+537,538,n02879718,bow,"a weapon for shooting arrows, composed of a curved piece of resilient wood with a taut cord to propel the arrow",n02879718,bow,457
+538,539,n02950826,cannon,heavy gun fired from a tank,n02950826,cannon,472
+539,540,n02749479,"assault rifle, assault gun",any of the automatic rifles or semiautomatic rifles with large magazines designed for military use,n02749479,assault_rifle,414
+540,541,n04090263,rifle,"a shoulder firearm with a long barrel and a rifled bore; ""he lifted the rifle to his shoulder and fired""",n04090263,rifle,765
+541,542,n04008634,"projectile, missile",a weapon that is forcibly thrown or projected at a targets but is not self-propelled,n04008634,projectile,745
+542,543,n03085013,"computer keyboard, keypad",a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard,n03085013,computer_keyboard,509
+543,544,n04505470,typewriter keyboard,a keyboard for manually entering characters to be printed,n04505470,typewriter_keyboard,879
+544,545,n03126707,crane,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis,n03126707,crane,518
+545,546,n03666591,"lighter, light, igniter, ignitor","a device for lighting or igniting fuel or charges or fires; ""do you have a light?""",n03666591,lighter,627
+546,547,n02666196,abacus,a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves,n02666196,abacus,399
+547,548,n02977058,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",an unattended machine (outside some banks) that dispenses money when a personal coded card is used,n02977058,cash_machine,481
+548,549,n04238763,"slide rule, slipstick",analog computer consisting of a handheld instrument used for rapid calculations; have been replaced by pocket calculators,n04238763,slide_rule,799
+549,550,n03180011,desktop computer,a personal computer small enough to fit conveniently in an individual workspace,n03180011,desktop_computer,528
+550,551,n03485407,"hand-held computer, hand-held microcomputer",a portable battery-powered computer small enough to be carried in your pocket,n03485407,hand-held_computer,591
+551,552,n03832673,"notebook, notebook computer",a small compact portable computer,n03832673,notebook,682
+552,553,n06359193,"web site, website, internet site, site","a computer connected to the internet that maintains a series of web pages on the World Wide Web; ""the Israeli web site was damaged by hostile hackers""",n06359193,web_site,917
+553,554,n03496892,"harvester, reaper",farm machine that gathers a food crop from the fields,n03496892,harvester,596
+554,555,n04428191,"thresher, thrasher, threshing machine",a farm machine for separating seeds or grain from the husks and straw,n04428191,thresher,857
+555,556,n04004767,printer,(computer science) an output device that prints the results of data processing,n04004767,printer,743
+556,557,n04243546,"slot, one-armed bandit","a slot machine that is used for gambling; ""they spend hours and hours just playing the slots""",n04243546,slot,801
+557,558,n04525305,vending machine,a slot machine for selling goods,n04525305,vending_machine,887
+558,559,n04179913,sewing machine,a textile machine used as a home appliance for sewing,n04179913,sewing_machine,787
+559,560,n03602883,joystick,a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers,n03602883,joystick,614
+560,561,n04372370,"switch, electric switch, electrical switch",control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit,n04372370,switch,845
+561,562,n03532672,"hook, claw",a mechanical device that is curved or bent to suspend or hold or pull something,n03532672,hook,601
+562,563,n02974003,car wheel,a wheel that has a tire and rim and hubcap; used to propel the car,n02974003,car_wheel,480
+563,564,n03874293,"paddlewheel, paddle wheel",a large wheel fitted with paddles and driven by an engine in order to propel a boat,n03874293,paddlewheel,695
+564,565,n03944341,pinwheel,"a wheel that has numerous pins that are set at right angles to its rim; ""he spun the pinwheel and it stopped with the pointer on `Go'""",n03944341,pinwheel,724
+565,566,n03992509,potter's wheel,"a horizontal rotating wheel holding the clay being shaped by a potter; ""the potter's wheel was invented in Asia Minor around 6500 BC""",n03992509,potter's_wheel,740
+566,567,n03425413,"gas pump, gasoline pump, petrol pump, island dispenser",a pump in a service station that draws gasoline from underground storage tanks,n03425413,gas_pump,572
+567,568,n02966193,"carousel, carrousel, merry-go-round, roundabout, whirligig","a large, rotating machine with seats for children to ride or amusement",n02966193,carousel,477
+568,569,n04371774,swing,mechanical device used as a plaything to support someone swinging back and forth,n04371774,swing,844
+569,570,n04067472,reel,winder consisting of a revolving spool with a handle; attached to a fishing rod,n04067472,reel,759
+570,571,n04040759,radiator,a mechanism consisting of a metal honeycomb through which hot fluids circulate; heat is transferred from the fluid through the honeycomb to the airstream that is created either by the motion of the vehicle or by a fan,n04040759,radiator,754
+571,572,n04019541,"puck, hockey puck",a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey,n04019541,puck,747
+572,573,n03492542,"hard disc, hard disk, fixed disk",a rigid magnetic disk mounted permanently in a drive unit,n03492542,hard_disc,593
+573,574,n04355933,sunglass,a convex lens that focuses the rays of the sun; used to start a fire,n04355933,sunglass,837
+574,575,n03929660,"pick, plectrum, plectron",a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument,n03929660,pick,715
+575,576,n02965783,car mirror,a mirror that the driver of a car can use,n02965783,car_mirror,476
+576,577,n04258138,"solar dish, solar collector, solar furnace",a concave mirror that concentrates the rays of the sun; can produce high temperatures,n04258138,solar_dish,808
+577,578,n04074963,"remote control, remote","a device that can be used to control a machine or apparatus from a distance; ""he lost the remote for his TV""",n04074963,remote_control,762
+578,579,n03208938,"disk brake, disc brake",hydraulic brake in which friction is applied to both sides of a spinning disk by the brake pads,n03208938,disk_brake,536
+579,580,n02910353,buckle,fastener that fastens together two ends of a belt or strap; often has loose prong,n02910353,buckle,465
+580,581,n03476684,hair slide,a decorative hinged clip that girls and women put in their hair to hold it in place,n03476684,hair_slide,585
+581,582,n03627232,knot,any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object,n03627232,knot,617
+582,583,n03075370,combination lock,lock that can be opened only by turning dials in a special sequence,n03075370,combination_lock,508
+583,584,n03874599,padlock,a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut,n03874599,padlock,696
+584,585,n03804744,nail,a thin pointed piece of metal that is hammered into materials as a fastener,n03804744,nail,678
+585,586,n04127249,safety pin,a pin in the form of a clasp; has a guard so the point of the pin will not stick the user,n04127249,safety_pin,773
+586,587,n04153751,screw,a fastener with a tapered threaded shank and a slotted head,n04153751,screw,784
+587,588,n03803284,muzzle,a leather or wire restraint that fits over an animal's snout (especially a dog's nose and jaws) and prevents it from eating or biting,n03803284,muzzle,677
+588,589,n04162706,"seat belt, seatbelt",a safety belt used in a car or plane to hold you in your seat in case of an accident,n04162706,seat_belt,786
+589,590,n04228054,ski,narrow wood or metal or plastic runners used in pairs for gliding over snow,n04228054,ski,796
+590,591,n02948072,"candle, taper, wax light",stick of wax with a wick in the middle,n02948072,candle,471
+591,592,n03590841,jack-o'-lantern,lantern carved from a pumpkin,n03590841,jack-o'-lantern,608
+592,593,n04286575,"spotlight, spot",a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer,n04286575,spotlight,819
+593,594,n04456115,torch,a light usually carried in the hand; consists of some flammable substance,n04456115,torch,863
+594,595,n03814639,neck brace,a brace worn to steady the neck,n03814639,neck_brace,679
+595,596,n03933933,pier,a support for two adjacent bridge spans,n03933933,pier,719
+596,597,n04485082,tripod,a three-legged rack used for support,n04485082,tripod,873
+597,598,n03733131,maypole,a vertical pole or post decorated with streamers that can be held by dancers celebrating May Day,n03733131,maypole,646
+598,599,n03794056,mousetrap,a trap for catching mice,n03794056,mousetrap,675
+599,600,n04275548,"spider web, spider's web",a web resembling the webs spun by spiders,n04275548,spider_web,816
+600,601,n01768244,trilobite,an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts,n01768244,trilobite,70
+601,602,n01770081,"harvestman, daddy longlegs, Phalangium opilio",spiderlike arachnid with a small rounded body and very long thin legs,n01770081,harvestman,71
+602,603,n01770393,scorpion,arachnid of warm dry regions having a long segmented tail ending in a venomous stinger,n01770393,scorpion,72
+603,604,n01773157,"black and gold garden spider, Argiope aurantia",a widely distributed North American garden spider,n01773157,black_and_gold_garden_spider,73
+604,605,n01773549,"barn spider, Araneus cavaticus","an orange and tan spider with darkly banded legs that spins an orb web daily; ""the barn spider was made famous in E. B. White's book `Charlotte's Web'""",n01773549,barn_spider,74
+605,606,n01773797,"garden spider, Aranea diademata",a spider common in European gardens,n01773797,garden_spider,75
+606,607,n01774384,"black widow, Latrodectus mactans",venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen,n01774384,black_widow,76
+607,608,n01774750,tarantula,large hairy tropical spider with fangs that can inflict painful but not highly venomous bites,n01774750,tarantula,77
+608,609,n01775062,"wolf spider, hunting spider",ground spider that hunts its prey instead of using a web,n01775062,wolf_spider,78
+609,610,n01776313,tick,any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals,n01776313,tick,79
+610,611,n01784675,centipede,"chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors",n01784675,centipede,80
+611,612,n01990800,isopod,any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling,n01990800,isopod,127
+612,613,n01978287,"Dungeness crab, Cancer magister",small edible crab of Pacific coast of North America,n01978287,Dungeness_crab,119
+613,614,n01978455,"rock crab, Cancer irroratus",crab of eastern coast of North America,n01978455,rock_crab,120
+614,615,n01980166,fiddler crab,burrowing crab of American coastal regions having one claw much enlarged in the male,n01980166,fiddler_crab,121
+615,616,n01981276,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan,n01981276,king_crab,122
+616,617,n01983481,"American lobster, Northern lobster, Maine lobster, Homarus americanus",lobster of Atlantic coast of America,n01983481,American_lobster,123
+617,618,n01984695,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",large edible marine crustacean having a spiny carapace but lacking the large pincers of true lobsters,n01984695,spiny_lobster,124
+618,619,n01985128,"crayfish, crawfish, crawdad, crawdaddy",small freshwater decapod crustacean that resembles a lobster,n01985128,crayfish,125
+619,620,n01986214,hermit crab,small soft-bodied marine crustaceans living in cast-off shells of gastropods,n01986214,hermit_crab,126
+620,621,n02165105,tiger beetle,active usually bright-colored beetle that preys on other insects,n02165105,tiger_beetle,301
+621,622,n02165456,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests,n02165456,ladybug,302
+622,623,n02167151,"ground beetle, carabid beetle",predacious shining black or metallic terrestrial beetle that destroys many injurious insects,n02167151,ground_beetle,303
+623,624,n02168699,"long-horned beetle, longicorn, longicorn beetle",long-bodied beetle having very long antennae,n02168699,long-horned_beetle,304
+624,625,n02169497,"leaf beetle, chrysomelid",brightly colored beetle that feeds on plant leaves; larvae infest roots and stems,n02169497,leaf_beetle,305
+625,626,n02172182,dung beetle,any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs,n02172182,dung_beetle,306
+626,627,n02174001,rhinoceros beetle,any of various large chiefly tropical beetles having horns on the head; pest on coconuts,n02174001,rhinoceros_beetle,307
+627,628,n02177972,weevil,any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles,n02177972,weevil,308
+628,629,n02190166,fly,two-winged insects characterized by active flight,n02190166,fly,309
+629,630,n02206856,bee,any of numerous hairy-bodied insects including social and solitary species,n02206856,bee,310
+630,631,n02226429,"grasshopper, hopper",terrestrial plant-eating insect with hind legs adapted for leaping,n02226429,grasshopper,312
+631,632,n02229544,cricket,leaping insect; male makes chirping noises by rubbing the forewings together,n02229544,cricket,313
+632,633,n02231487,"walking stick, walkingstick, stick insect",any of various mostly tropical insects having long twiglike bodies,n02231487,walking_stick,314
+633,634,n02233338,"cockroach, roach",any of numerous chiefly nocturnal insects; some are domestic pests,n02233338,cockroach,315
+634,635,n02236044,"mantis, mantid",predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer,n02236044,mantis,316
+635,636,n02256656,"cicada, cicala",stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone,n02256656,cicada,317
+636,637,n02259212,leafhopper,small leaping insect that sucks the juices of plants,n02259212,leafhopper,318
+637,638,n02264363,"lacewing, lacewing fly",any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids,n02264363,lacewing,319
+638,639,n02268443,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.,n02268443,dragonfly,320
+639,640,n02268853,damselfly,slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest,n02268853,damselfly,321
+640,641,n02276258,admiral,any of several brightly colored butterflies,n02276258,admiral,322
+641,642,n02277742,"ringlet, ringlet butterfly",any of various butterflies belonging to the family Satyridae,n02277742,ringlet,323
+642,643,n02279972,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed,n02279972,monarch,324
+643,644,n02280649,cabbage butterfly,white butterfly whose larvae (cabbageworms) feed on cabbage,n02280649,cabbage_butterfly,325
+644,645,n02281406,"sulphur butterfly, sulfur butterfly",any of numerous yellow or orange butterflies,n02281406,sulphur_butterfly,326
+645,646,n02281787,"lycaenid, lycaenid butterfly",any of various butterflies of the family Lycaenidae,n02281787,lycaenid,327
+646,647,n01910747,jellyfish,any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans,n01910747,jellyfish,108
+647,648,n01914609,"sea anemone, anemone",marine polyps that resemble flowers but have oral rings of tentacles; differ from corals in forming no hard skeleton,n01914609,sea_anemone,109
+648,649,n01917289,brain coral,massive reef-building coral having a convoluted and furrowed surface,n01917289,brain_coral,110
+649,650,n01924916,"flatworm, platyhelminth",parasitic or free-living worms having a flattened body,n01924916,flatworm,111
+650,651,n01930112,"nematode, nematode worm, roundworm",unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic,n01930112,nematode,112
+651,652,n01943899,conch,any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip,n01943899,conch,113
+652,653,n01944390,snail,freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell,n01944390,snail,114
+653,654,n01945685,slug,any of various terrestrial gastropods having an elongated slimy body and no external shell,n01945685,slug,115
+654,655,n01950731,"sea slug, nudibranch",any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body,n01950731,sea_slug,116
+655,656,n01955084,"chiton, coat-of-mail shell, sea cradle, polyplacophore",primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates,n01955084,chiton,117
+656,657,n02319095,sea urchin,shallow-water echinoderms having soft bodies enclosed in thin spiny globular shells,n02319095,sea_urchin,329
+657,658,n02321529,"sea cucumber, holothurian","echinoderm having a flexible sausage-shaped body, tentacles surrounding the mouth and tube feet; free-living mud feeders",n02321529,sea_cucumber,330
+658,659,n03584829,"iron, smoothing iron",home appliance consisting of a flat metal base that is heated and used to smooth cloth,n03584829,iron,607
+659,660,n03297495,espresso maker,a coffee maker that forces live steam under pressure through dark roasted coffee grounds,n03297495,espresso_maker,551
+660,661,n03761084,"microwave, microwave oven",kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food,n03761084,microwave,652
+661,662,n03259280,Dutch oven,an oven consisting of a metal box for cooking in front of a fire,n03259280,Dutch_oven,545
+662,663,n04111531,rotisserie,an oven or broiler equipped with a rotating spit on which meat cooks as it turns,n04111531,rotisserie,767
+663,664,n04442312,toaster,a kitchen appliance (usually electric) for toasting bread,n04442312,toaster,860
+664,665,n04542943,waffle iron,a kitchen appliance for baking waffles; the appliance usually consists of two indented metal pans hinged together so that they create a pattern on the waffle,n04542943,waffle_iron,892
+665,666,n04517823,"vacuum, vacuum cleaner",an electrical home appliance that cleans by suction,n04517823,vacuum,883
+666,667,n03207941,"dishwasher, dish washer, dishwashing machine",a machine for washing dishes,n03207941,dishwasher,535
+667,668,n04070727,"refrigerator, icebox",white goods in which food can be stored at low temperatures,n04070727,refrigerator,761
+668,669,n04554684,"washer, automatic washer, washing machine",a home appliance for washing clothes and linens automatically,n04554684,washer,898
+669,670,n03133878,Crock Pot,an electric cooker that maintains a relatively low temperature,n03133878,Crock_Pot,522
+670,671,n03400231,"frying pan, frypan, skillet",a pan used for frying foods,n03400231,frying_pan,568
+671,672,n04596742,wok,pan with a convex bottom; used for frying in Chinese cooking,n04596742,wok,910
+672,673,n02939185,"caldron, cauldron",a very large pot that is used for boiling,n02939185,caldron,470
+673,674,n03063689,coffeepot,tall pot in which coffee is brewed,n03063689,coffeepot,506
+674,675,n04398044,teapot,pot for brewing tea; usually has a spout and handle,n04398044,teapot,850
+675,676,n04270147,spatula,a turner with a narrow flexible blade,n04270147,spatula,814
+676,677,n02699494,altar,a raised structure on which gifts or sacrifices to a god are made,n02699494,altar,407
+677,678,n04486054,triumphal arch,a monumental archway; usually they are built to commemorate some notable victory,n04486054,triumphal_arch,874
+678,679,n03899768,"patio, terrace",usually paved outdoor area adjoining a residence,n03899768,patio,707
+679,680,n04311004,steel arch bridge,a steel bridge constructed in the form of an arch,n04311004,steel_arch_bridge,822
+680,681,n04366367,suspension bridge,a bridge that has a roadway supported by cables that are anchored at both ends,n04366367,suspension_bridge,840
+681,682,n04532670,viaduct,bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley,n04532670,viaduct,889
+682,683,n02793495,barn,an outlying farm building for storing grain or animal feed and housing farm animals,n02793495,barn,426
+683,684,n03457902,"greenhouse, nursery, glasshouse",a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions,n03457902,greenhouse,581
+684,685,n03877845,palace,official residence of an exalted person (as a sovereign),n03877845,palace,699
+685,686,n03781244,monastery,the residence of a religious community,n03781244,monastery,664
+686,687,n03661043,library,a building that houses a collection of books and other materials,n03661043,library,625
+687,688,n02727426,"apiary, bee house",a shed containing a number of beehives,n02727426,apiary,411
+688,689,n02859443,boathouse,a shed at the edge of a river or lake; used to store boats,n02859443,boathouse,450
+689,690,n03028079,"church, church building","a place for public (especially Christian) worship; ""the church was empty""",n03028079,church,498
+690,691,n03788195,mosque,(Islam) a Muslim place of worship that usually has a minaret,n03788195,mosque,669
+691,692,n04346328,"stupa, tope",a dome-shaped shrine erected by Buddhists,n04346328,stupa,833
+692,693,n03956157,planetarium,a building housing an instrument for projecting the positions of the planets onto a domed ceiling,n03956157,planetarium,728
+693,694,n04081281,"restaurant, eating house, eating place, eatery",a building where people go to eat,n04081281,restaurant,763
+694,695,n03032252,"cinema, movie theater, movie theatre, movie house, picture palace",a theater where films are shown,n03032252,cinema,499
+695,696,n03529860,"home theater, home theatre",television and video equipment designed to reproduce in the home the experience of being in a movie theater,n03529860,home_theater,599
+696,697,n03697007,"lumbermill, sawmill",a mill for dressing logs and lumber,n03697007,lumbermill,635
+697,698,n03065424,"coil, spiral, volute, whorl, helix","a structure consisting of something wound in a continuous series of loops; ""a coil of rope""",n03065424,coil,507
+698,699,n03837869,obelisk,a stone pillar having a rectangular cross section tapering towards a pyramidal top,n03837869,obelisk,683
+699,700,n04458633,totem pole,a tribal emblem consisting of a pillar carved and painted with totemic figures; erected by Indian tribes of the northwest Pacific coast,n04458633,totem_pole,864
+700,701,n02980441,castle,a large building formerly occupied by a ruler and fortified against attack,n02980441,castle,484
+701,702,n04005630,"prison, prison house",a correctional institution where persons are confined while on trial or for punishment,n04005630,prison,744
+702,703,n03461385,"grocery store, grocery, food market, market","a marketplace where groceries are sold; ""the grocery store included a meat market""",n03461385,grocery_store,583
+703,704,n02776631,"bakery, bakeshop, bakehouse",a workplace where baked goods (breads and cakes and pastries) are produced or sold,n02776631,bakery,416
+704,705,n02791270,barbershop,a shop where men can get their hair cut,n02791270,barbershop,425
+705,706,n02871525,"bookshop, bookstore, bookstall",a shop where books are sold,n02871525,bookshop,455
+706,707,n02927161,"butcher shop, meat market",a shop in which meat and poultry (and sometimes fish) are sold,n02927161,butcher_shop,468
+707,708,n03089624,"confectionery, confectionary, candy store",a confectioner's shop,n03089624,confectionery,510
+708,709,n04200800,"shoe shop, shoe-shop, shoe store",a shop where shoes are sold,n04200800,shoe_shop,789
+709,710,n04443257,"tobacco shop, tobacconist shop, tobacconist",a shop that sells pipes and pipe tobacco and cigars and cigarettes,n04443257,tobacco_shop,861
+710,711,n04462240,toyshop,shop where toys are sold,n04462240,toyshop,866
+711,712,n03388043,fountain,a structure from which an artificially produced jet of water arises,n03388043,fountain,563
+712,713,n03042490,cliff dwelling,"a rock and adobe dwelling built on sheltered ledges in the sides of a cliff; ""the Anasazi built cliff dwellings in the southwestern United States""",n03042490,cliff_dwelling,501
+713,714,n04613696,yurt,a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing,n04613696,yurt,916
+714,715,n03216828,"dock, dockage, docking facility","landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out; ""the ship arrived at the dock more than a day late""",n03216828,dock,537
+715,716,n02892201,"brass, memorial tablet, plaque",a memorial made of brass,n02892201,brass,459
+716,717,n03743016,"megalith, megalithic structure",memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe),n03743016,megalith,650
+717,718,n02788148,"bannister, banister, balustrade, balusters, handrail",a railing at the side of a staircase or balcony to prevent people from falling,n02788148,bannister,422
+718,719,n02894605,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away,n02894605,breakwater,461
+719,720,n03160309,"dam, dike, dyke",a barrier constructed to contain the flow of water or to keep out the sea,n03160309,dam,526
+720,721,n03000134,chainlink fence,a fence of steel wires woven into a diamond pattern,n03000134,chainlink_fence,490
+721,722,n03930313,"picket fence, paling",a fence made of upright pickets,n03930313,picket_fence,717
+722,723,n04604644,"worm fence, snake fence, snake-rail fence, Virginia fence",rail fence consisting of a zigzag of interlocking rails,n04604644,worm_fence,913
+723,724,n04326547,stone wall,a fence built of rough stones; used to separate fields,n04326547,stone_wall,826
+724,725,n03459775,"grille, radiator grille",grating that admits cooling air to car's radiator,n03459775,grille,582
+725,726,n04239074,sliding door,a door that opens by sliding instead of swinging,n04239074,sliding_door,800
+726,727,n04501370,turnstile,a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering,n04501370,turnstile,878
+727,728,n03792972,mountain tent,a lightweight tent with a floor; flaps close with a zipper,n03792972,mountain_tent,673
+728,729,n04149813,scoreboard,a large board for displaying the score of a contest (and some other information),n04149813,scoreboard,782
+729,730,n03530642,honeycomb,a framework of hexagonal cells resembling the honeycomb built by bees,n03530642,honeycomb,600
+730,731,n03961711,plate rack,a rack for holding plates to dry after they have been washed,n03961711,plate_rack,730
+731,732,n03903868,"pedestal, plinth, footstall",an architectural support or base (as for a column or statue),n03903868,pedestal,709
+732,733,n02814860,"beacon, lighthouse, beacon light, pharos",a tower with a light that gives warning of shoals to passing ships,n02814860,beacon,438
+733,734,n07711569,mashed potato,potato that has been peeled and boiled and then mashed,n07711569,mashed_potato,936
+734,735,n07720875,bell pepper,large bell-shaped sweet pepper in green or red or yellow or orange or black varieties,n07720875,bell_pepper,946
+735,736,n07714571,head cabbage,any of several varieties of cabbage having a large compact globular head; may be steamed or boiled or stir-fried or used raw in coleslaw,n07714571,head_cabbage,937
+736,737,n07714990,broccoli,branched green undeveloped flower heads,n07714990,broccoli,938
+737,738,n07715103,cauliflower,compact head of white undeveloped flowers,n07715103,cauliflower,939
+738,739,n07716358,"zucchini, courgette",small cucumber-shaped vegetable marrow; typically dark green,n07716358,zucchini,940
+739,740,n07716906,spaghetti squash,medium-sized oval squash with flesh in the form of strings that resemble spaghetti,n07716906,spaghetti_squash,941
+740,741,n07717410,acorn squash,small dark green or yellow ribbed squash with yellow to orange flesh,n07717410,acorn_squash,942
+741,742,n07717556,butternut squash,buff-colored squash with a long usually straight neck and sweet orange flesh,n07717556,butternut_squash,943
+742,743,n07718472,"cucumber, cuke",cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons,n07718472,cucumber,944
+743,744,n07718747,"artichoke, globe artichoke",a thistlelike flower head with edible fleshy leaves and heart,n07718747,artichoke,945
+744,745,n07730033,cardoon,only parts eaten are roots and especially stalks (blanched and used as celery); related to artichokes,n07730033,cardoon,947
+745,746,n07734744,mushroom,fleshy body of any of numerous edible fungi,n07734744,mushroom,948
+746,747,n04209239,shower curtain,a curtain that keeps water from splashing out of the shower area,n04209239,shower_curtain,795
+747,748,n03594734,"jean, blue jean, denim",(usually plural) close-fitting trousers of heavy denim for manual work or casual wear,n03594734,jean,609
+748,749,n02971356,carton,a box made of cardboard; opens by flaps on top,n02971356,carton,479
+749,750,n03485794,"handkerchief, hankie, hanky, hankey",a square piece of cloth used for wiping the eyes or nose or as a costume accessory,n03485794,handkerchief,592
+750,751,n04133789,sandal,a shoe consisting of a sole fastened by straps to the foot,n04133789,sandal,775
+751,752,n02747177,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",a bin that holds rubbish until it is collected,n02747177,ashcan,413
+752,753,n04125021,safe,strongbox where valuables can be safely kept,n04125021,safe,772
+753,754,n07579787,plate,"a main course served on a plate; ""a vegetable plate""; ""the blue plate special""",n07579787,plate,924
+754,755,n03814906,necklace,jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women),n03814906,necklace,680
+755,756,n03134739,croquet ball,a wooden ball used in playing croquet,n03134739,croquet_ball,523
+756,757,n03404251,fur coat,a coat made of fur,n03404251,fur_coat,569
+757,758,n04423845,thimble,a small metal cap to protect the finger while sewing; can be used as a small container,n04423845,thimble,856
+758,759,n03877472,"pajama, pyjama, pj's, jammies",(usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers,n03877472,pajama,698
+759,760,n04120489,running shoe,a light comfortable shoe designed for running,n04120489,running_shoe,771
+760,761,n03062245,cocktail shaker,a shaker for mixing cocktails,n03062245,cocktail_shaker,504
+761,762,n03014705,chest,box with a lid; used for storage; usually large and sturdy,n03014705,chest,493
+762,763,n03717622,manhole cover,a flush iron cover for a manhole (as in a street),n03717622,manhole_cover,641
+763,764,n03777754,modem,(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line,n03777754,modem,663
+764,765,n04493381,"tub, vat",a large open vessel for holding or storing liquids,n04493381,tub,877
+765,766,n04476259,tray,an open receptacle for holding or displaying or serving articles or food,n04476259,tray,869
+766,767,n02777292,"balance beam, beam",a gymnastic apparatus used by women gymnasts,n02777292,balance_beam,417
+767,768,n07693725,"bagel, beigel",(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust,n07693725,bagel,932
+768,769,n03998194,"prayer rug, prayer mat",a small rug used by Muslims during their devotions,n03998194,prayer_rug,742
+769,770,n03617480,kimono,a loose robe; imitated from robes originally worn by Japanese,n03617480,kimono,615
+770,771,n07590611,"hot pot, hotpot",a stew of meat and potatoes cooked in a tightly covered pot,n07590611,hot_pot,927
+771,772,n04579145,whiskey jug,a jug that contains whiskey,n04579145,whiskey_jug,902
+772,773,n03623198,knee pad,protective garment consisting of a pad worn by football or baseball or hockey players,n03623198,knee_pad,616
+773,774,n07248320,"book jacket, dust cover, dust jacket, dust wrapper",a paper jacket for a book; a jacket on which promotional information is usually printed,n07248320,book_jacket,922
+774,775,n04277352,spindle,a stick or pin used to twist the yarn in spinning,n04277352,spindle,817
+775,776,n04229816,ski mask,a woolen face mask to protect the face from cold while skiing on snow,n04229816,ski_mask,797
+776,777,n02823428,beer bottle,a bottle that holds beer,n02823428,beer_bottle,441
+777,778,n03127747,crash helmet,a padded helmet worn by people riding bicycles or motorcycles; protects the head in case of accidents,n03127747,crash_helmet,519
+778,779,n02877765,bottlecap,a cap that seals a bottle,n02877765,bottlecap,456
+779,780,n04435653,tile roof,a roof made of fired clay tiles,n04435653,tile_roof,859
+780,781,n03724870,mask,a covering to disguise or conceal the face,n03724870,mask,644
+781,782,n03710637,maillot,tights for dancers or gymnasts,n03710637,maillot,639
+782,783,n03920288,Petri dish,a shallow dish used to culture bacteria,n03920288,Petri_dish,713
+783,784,n03379051,football helmet,a padded helmet with a face mask to protect the head of football players,n03379051,football_helmet,561
+784,785,n02807133,"bathing cap, swimming cap",a tight-fitting cap that keeps hair dry while swimming,n02807133,bathing_cap,434
+785,786,n04399382,"teddy, teddy bear",plaything consisting of a child's toy bear (usually plush and stuffed with soft materials),n04399382,teddy,851
+786,787,n03527444,holster,a sheath (usually leather) for carrying a handgun,n03527444,holster,598
+787,788,n03983396,"pop bottle, soda bottle",a bottle for holding soft drinks,n03983396,pop_bottle,738
+788,789,n03924679,photocopier,a copier that uses photographic methods of making copies,n03924679,photocopier,714
+789,790,n04532106,vestment,gown (especially ceremonial garments) worn by the clergy,n04532106,vestment,888
+790,791,n06785654,"crossword puzzle, crossword",a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle,n06785654,crossword_puzzle,919
+791,792,n03445777,golf ball,a small hard ball used in playing golf; dimpled to reduce wind resistance,n03445777,golf_ball,575
+792,793,n07613480,trifle,"a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",n07613480,trifle,928
+793,794,n04350905,"suit, suit of clothes","a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color; ""they buried him in his best suit""",n04350905,suit,835
+794,795,n04562935,water tower,a large reservoir for water,n04562935,water_tower,901
+795,796,n03325584,"feather boa, boa",a long thin fluffy scarf of feathers or fur,n03325584,feather_boa,553
+796,797,n03045698,cloak,anything that covers or conceals,n03045698,cloak,502
+797,798,n07892512,red wine,wine having a red color derived from skins of dark-colored grapes,n07892512,red_wine,967
+798,799,n03250847,drumstick,a stick used for playing a drum,n03250847,drumstick,543
+799,800,n04192698,"shield, buckler",armor carried on the arm to intercept blows,n04192698,shield,788
+800,801,n03026506,Christmas stocking,a stocking that is filled with small Christmas presents,n03026506,Christmas_stocking,497
+801,802,n03534580,"hoopskirt, crinoline",a skirt stiffened with hoops,n03534580,hoopskirt,602
+802,803,n07565083,menu,the dishes making up a meal,n07565083,menu,923
+803,804,n04296562,stage,"a large platform on which people can stand and can be seen by an audience; ""he clambered up onto the stage and got the actors to help him into the box""",n04296562,stage,820
+804,805,n02869837,"bonnet, poke bonnet",a hat tied under the chin,n02869837,bonnet,453
+805,806,n07871810,"meat loaf, meatloaf",a baked loaf of ground meat,n07871810,meat_loaf,963
+806,807,n02799071,baseball,a ball used in playing baseball,n02799071,baseball,430
+807,808,n03314780,face powder,cosmetic powder for the face,n03314780,face_powder,552
+808,809,n04141327,scabbard,a sheath for a sword or dagger or bayonet,n04141327,scabbard,778
+809,810,n04357314,"sunscreen, sunblock, sun blocker",a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn,n04357314,sunscreen,839
+810,811,n02823750,beer glass,a relatively large glass for serving beer,n02823750,beer_glass,442
+811,812,n13052670,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",large greyish-brown edible fungus forming a mass of overlapping caps that somewhat resembles a hen at the base of trees,n13052670,hen-of-the-woods,997
+812,813,n07583066,guacamole,a dip made of mashed avocado mixed with chopped onions and other seasonings,n07583066,guacamole,925
+813,814,n03637318,"lampshade, lamp shade",a protective ornamental shade used to screen a light bulb from direct view,n03637318,lampshade,620
+814,815,n04599235,"wool, woolen, woollen",a fabric made from the hair of sheep,n04599235,wool,912
+815,816,n07802026,hay,grass mowed and cured for use as fodder,n07802026,hay,959
+816,817,n02883205,"bow tie, bow-tie, bowtie",a man's tie that ties in a bow,n02883205,bow_tie,458
+817,818,n03709823,"mailbag, postbag","letter carrier's shoulder bag; ""in Britain they call a mailbag a postbag""",n03709823,mailbag,637
+818,819,n04560804,water jug,a jug that holds water,n04560804,water_jug,900
+819,820,n02909870,"bucket, pail",a roughly cylindrical vessel that is open at the top,n02909870,bucket,464
+820,821,n03207743,"dishrag, dishcloth",a cloth for washing dishes,n03207743,dishrag,534
+821,822,n04263257,soup bowl,a bowl for serving soup,n04263257,soup_bowl,810
+822,823,n07932039,eggnog,a punch made of sweetened milk or cream mixed with eggs and usually alcoholic liquor,n07932039,eggnog,970
+823,824,n03786901,mortar,a bowl-shaped vessel in which substances can be ground and mixed with a pestle,n03786901,mortar,667
+824,825,n04479046,trench coat,a military style raincoat; belted with deep pockets,n04479046,trench_coat,870
+825,826,n03873416,"paddle, boat paddle",a short light oar used without an oarlock to propel a canoe or small boat,n03873416,paddle,694
+826,827,n02999410,chain,a series of (usually metal) rings or links fitted into one another to make a flexible ligament,n02999410,chain,489
+827,828,n04367480,"swab, swob, mop",cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors,n04367480,swab,841
+828,829,n03775546,mixing bowl,bowl used with an electric mixer,n03775546,mixing_bowl,660
+829,830,n07875152,potpie,deep-dish meat and vegetable pie or a meat stew with dumplings,n07875152,potpie,965
+830,831,n04591713,wine bottle,a bottle for holding wine,n04591713,wine_bottle,908
+831,832,n04201297,shoji,a translucent screen made of a wooden frame covered with rice paper,n04201297,shoji,790
+832,833,n02916936,bulletproof vest,a vest capable of resisting the impact of a bullet,n02916936,bulletproof_vest,466
+833,834,n03240683,"drilling platform, offshore rig",drilling rig consisting of an offshore platform (floating or fixed to the sea bed) from which many oil wells can be bored radially,n03240683,drilling_platform,541
+834,835,n02840245,"binder, ring-binder",holds loose papers or magazines,n02840245,binder,447
+835,836,n02963159,cardigan,knitted jacket that is fastened up the front with buttons or a zipper,n02963159,cardigan,475
+836,837,n04370456,sweatshirt,cotton knit pullover with long sleeves worn during athletic activity,n04370456,sweatshirt,842
+837,838,n03991062,"pot, flowerpot",a container in which plants are cultivated,n03991062,pot,739
+838,839,n02843684,birdhouse,a shelter for birds,n02843684,birdhouse,449
+839,840,n03482405,hamper,a basket usually with a cover,n03482405,hamper,589
+840,841,n03942813,ping-pong ball,light hollow ball used in playing table tennis,n03942813,ping-pong_ball,723
+841,842,n03908618,"pencil box, pencil case",a box for holding pencils,n03908618,pencil_box,710
+842,843,n03902125,"pay-phone, pay-station",a coin-operated telephone,n03902125,pay-phone,708
+843,844,n07584110,consomme,clear soup usually of beef or veal or chicken,n07584110,consomme,926
+844,845,n02730930,apron,a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing,n02730930,apron,412
+845,846,n04023962,"punching bag, punch bag, punching ball, punchball",an inflated ball or bag that is suspended and punched for training in boxing,n04023962,punching_bag,748
+846,847,n02769748,"backpack, back pack, knapsack, packsack, rucksack, haversack",a bag carried by a strap on your back or shoulder,n02769748,backpack,415
+847,848,n10148035,"groom, bridegroom",a man participant in his own marriage ceremony,n10148035,groom,983
+848,849,n02817516,"bearskin, busby, shako",tall hat; worn by some British soldiers on ceremonial occasions,n02817516,bearskin,440
+849,850,n03908714,pencil sharpener,a rotary implement for sharpening the point on pencils,n03908714,pencil_sharpener,711
+850,851,n02906734,broom,a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle,n02906734,broom,463
+851,852,n03788365,mosquito net,a fine net or screen (especially around beds) to protect against mosquitos,n03788365,mosquito_net,670
+852,853,n02667093,abaya,(Arabic) a loose black robe from head to toe; traditionally worn by Muslim women,n02667093,abaya,400
+853,854,n03787032,mortarboard,an academic cap with a flat square with a tassel on top,n03787032,mortarboard,668
+854,855,n03980874,poncho,a blanket-like cloak with a hole in the center for the head,n03980874,poncho,736
+855,856,n03141823,crutch,a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking,n03141823,crutch,524
+856,857,n03976467,"Polaroid camera, Polaroid Land camera",a camera that develops and produces a positive print within seconds,n03976467,Polaroid_camera,733
+857,858,n04264628,space bar,the bar-shaped typewriter key that introduces spaces when used,n04264628,space_bar,811
+858,859,n07930864,cup,a punch served in a pitcher instead of a punch bowl,n07930864,cup,969
+859,860,n04039381,"racket, racquet",a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games,n04039381,racket,753
+860,861,n06874185,"traffic light, traffic signal, stoplight",a visual signal to control the flow of traffic at intersections,n06874185,traffic_light,921
+861,862,n04033901,"quill, quill pen",pen made from a bird's feather,n04033901,quill,750
+862,863,n04041544,"radio, wireless",a communication system based on broadcasting electromagnetic waves,n04041544,radio,755
+863,864,n07860988,dough,a flour mixture stiff enough to knead or roll,n07860988,dough,962
+864,865,n03146219,cuirass,medieval body armor that covers the chest and back,n03146219,cuirass,525
+865,866,n03763968,military uniform,prescribed identifying uniform for soldiers,n03763968,military_uniform,653
+866,867,n03676483,"lipstick, lip rouge",makeup that is used to color the lips,n03676483,lipstick,630
+867,868,n04209133,shower cap,a tight cap worn to keep hair dry while showering,n04209133,shower_cap,794
+868,869,n03782006,monitor,electronic equipment that is used to check the quality or content of electronic transmissions,n03782006,monitor,665
+869,870,n03857828,"oscilloscope, scope, cathode-ray oscilloscope, CRO",electronic equipment that provides visual images of varying electrical quantities,n03857828,oscilloscope,689
+870,871,n03775071,mitten,glove that encases the thumb separately and the other four fingers together,n03775071,mitten,659
+871,872,n02892767,"brassiere, bra, bandeau",an undergarment worn by women to support their breasts,n02892767,brassiere,460
+872,873,n07684084,French loaf,a loaf of French bread,n07684084,French_loaf,931
+873,874,n04522168,vase,an open jar of glass or porcelain used as an ornament or to hold flowers,n04522168,vase,884
+874,875,n03764736,milk can,large can for transporting milk,n03764736,milk_can,654
+875,876,n04118538,rugby ball,inflated oval ball used in playing rugby,n04118538,rugby_ball,769
+876,877,n03887697,paper towel,a disposable towel made of absorbent paper,n03887697,paper_towel,701
+877,878,n13044778,earthstar,any fungus of the family Geastraceae; in form suggesting a puffball whose outer peridium splits into the shape of a star,n13044778,earthstar,996
+878,879,n03291819,envelope,"a flat (usually rectangular) container for a letter, thin package, etc.",n03291819,envelope,550
+879,880,n03770439,"miniskirt, mini",a very short skirt,n03770439,miniskirt,656
+880,881,n03124170,"cowboy hat, ten-gallon hat",a hat with a wide brim and a soft crown; worn by American ranch hands,n03124170,cowboy_hat,516
+881,882,n04487081,"trolleybus, trolley coach, trackless trolley",a passenger bus with an electric motor that draws power from overhead wires,n04487081,trolleybus,875
+882,883,n03916031,"perfume, essence",a toiletry that emits and diffuses a fragrant odor,n03916031,perfume,712
+883,884,n02808440,"bathtub, bathing tub, bath, tub",a relatively large open container that you fill with water and use to wash the body,n02808440,bathtub,436
+884,885,n07697537,"hotdog, hot dog, red hot",a frankfurter served hot on a bun,n07697537,hotdog,935
+885,886,n12985857,coral fungus,any of numerous fungi of the family Clavariaceae often brightly colored that grow in often intricately branched clusters like coral,n12985857,coral_fungus,992
+886,887,n02917067,"bullet train, bullet",a high-speed passenger train,n02917067,bullet_train,467
+887,888,n03938244,pillow,a cushion to support the head of a sleeping person,n03938244,pillow,722
+888,889,n15075141,"toilet tissue, toilet paper, bathroom tissue",a soft thin absorbent paper for use in toilets,n15075141,toilet_tissue,1000
+889,890,n02978881,cassette,a container that holds a magnetic tape used for recording or playing sound or video,n02978881,cassette,482
+890,891,n02966687,"carpenter's kit, tool kit",a set of carpenter's tools,n02966687,carpenter's_kit,478
+891,892,n03633091,ladle,a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another,n03633091,ladle,619
+892,893,n13040303,"stinkhorn, carrion fungus","any of various ill-smelling brown-capped fungi of the order Phallales; ""the foul smell of the stinkhorn attracts insects that carry the spores away on their feet""",n13040303,stinkhorn,995
+893,894,n03690938,lotion,any of various cosmetic preparations that are applied to the skin,n03690938,lotion,632
+894,895,n03476991,hair spray,toiletry consisting of a commercial preparation that is sprayed on the hair to hold it in place,n03476991,hair_spray,586
+895,896,n02669723,"academic gown, academic robe, judge's robe",a gown worn by academics or judges,n02669723,academic_gown,401
+896,897,n03220513,dome,a hemispherical roof,n03220513,dome,539
+897,898,n03127925,crate,a rugged box (usually made of wood); used for shipping,n03127925,crate,520
+898,899,n04584207,wig,hairpiece covering the head and made of real or synthetic hair,n04584207,wig,904
+899,900,n07880968,burrito,a flour tortilla folded around a filling,n07880968,burrito,966
+900,901,n03937543,pill bottle,a small bottle for holding pills,n03937543,pill_bottle,721
+901,902,n03000247,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",(Middle Ages) flexible armor made of interlinked metal rings,n03000247,chain_mail,491
+902,903,n04418357,"theater curtain, theatre curtain",a hanging cloth that conceals the stage from the view of the audience; rises or parts at the beginning and descends or closes between acts and at the end of a performance,n04418357,theater_curtain,855
+903,904,n04590129,window shade,an opaque window blind that can cover or uncover a window,n04590129,window_shade,906
+904,905,n02795169,"barrel, cask",a cylindrical container that holds liquids,n02795169,barrel,428
+905,906,n04553703,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",a basin for washing the hands (`wash-hand basin' is a British expression),n04553703,washbasin,897
+906,907,n02783161,"ballpoint, ballpoint pen, ballpen, Biro",a pen that has a small metal ball as the point of transfer of ink to paper,n02783161,ballpoint,419
+907,908,n02802426,basketball,an inflated ball used in playing basketball,n02802426,basketball,431
+908,909,n02808304,bath towel,a large towel; to dry yourself after a bath,n02808304,bath_towel,435
+909,910,n03124043,cowboy boot,a boot with a high arch and fancy stitching; worn by American cowboys,n03124043,cowboy_boot,515
+910,911,n03450230,gown,"a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions",n03450230,gown,579
+911,912,n04589890,window screen,screen to keep insects from entering a building through the open window,n04589890,window_screen,905
+912,913,n12998815,agaric,a saprophytic fungus of the order Agaricales having an umbrellalike cap with gills on the underside,n12998815,agaric,993
+913,914,n02992529,"cellular telephone, cellular phone, cellphone, cell, mobile phone","a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",n02992529,cellular_telephone,488
+914,915,n03825788,nipple,a flexible cap on a baby's feeding bottle or pacifier,n03825788,nipple,681
+915,916,n02790996,barbell,a bar to which heavy discs are attached at each end; used in weightlifting,n02790996,barbell,423
+916,917,n03710193,"mailbox, letter box",a private box for delivery of mail,n03710193,mailbox,638
+917,918,n03630383,"lab coat, laboratory coat",a light coat worn to protect clothing from substances used while working in a laboratory,n03630383,lab_coat,618
+918,919,n03347037,"fire screen, fireguard",a metal screen before an open fire for protection (especially against flying sparks),n03347037,fire_screen,557
+919,920,n03769881,minibus,a light bus (4 to 10 passengers),n03769881,minibus,655
+920,921,n03871628,packet,a small package or bundle,n03871628,packet,693
+921,922,n03733281,"maze, labyrinth",complex system of paths or tunnels in which it is easy to get lost,n03733281,maze,647
+922,923,n03976657,pole,a long (usually round) rod of wood or metal or plastic,n03976657,pole,734
+923,924,n03535780,"horizontal bar, high bar",gymnastic apparatus consisting of a bar supported in a horizontal position by uprights at both ends,n03535780,horizontal_bar,603
+924,925,n04259630,sombrero,a straw hat with a tall crown and broad brim; worn in American southwest and in Mexico,n04259630,sombrero,809
+925,926,n03929855,pickelhaube,a spiked helmet worn by German soldiers,n03929855,pickelhaube,716
+926,927,n04049303,rain barrel,a barrel used as a cistern to hold rainwater,n04049303,rain_barrel,757
+927,928,n04548362,"wallet, billfold, notecase, pocketbook",a pocket-size case for holding papers and paper money,n04548362,wallet,894
+928,929,n02979186,cassette player,electronic equipment for playing cassettes,n02979186,cassette_player,483
+929,930,n06596364,comic book,a magazine devoted to comic strips,n06596364,comic_book,918
+930,931,n03935335,"piggy bank, penny bank",a child's coin bank (often shaped like a pig),n03935335,piggy_bank,720
+931,932,n06794110,street sign,a sign visible from the street,n06794110,street_sign,920
+932,933,n02825657,"bell cote, bell cot",a small shelter for bells; has a gable or shed roof,n02825657,bell_cote,443
+933,934,n03388183,fountain pen,a pen that is supplied with ink from a reservoir in its barrel,n03388183,fountain_pen,564
+934,935,n04591157,Windsor tie,a wide necktie worn in a loose bow,n04591157,Windsor_tie,907
+935,936,n04540053,volleyball,an inflated ball used in playing volleyball,n04540053,volleyball,891
+936,937,n03866082,overskirt,an outer skirt worn over another skirt,n03866082,overskirt,690
+937,938,n04136333,sarong,a loose skirt consisting of brightly colored fabric wrapped around the body; worn by both women and men in the South Pacific,n04136333,sarong,776
+938,939,n04026417,purse,a small bag for carrying money,n04026417,purse,749
+939,940,n02865351,"bolo tie, bolo, bola tie, bola",a cord fastened around the neck with an ornamental clasp and worn as a necktie,n02865351,bolo_tie,452
+940,941,n02834397,bib,top part of an apron; covering the chest,n02834397,bib,444
+941,942,n03888257,"parachute, chute",rescue equipment consisting of a device that fills with air and retards your fall,n03888257,parachute,702
+942,943,n04235860,sleeping bag,large padded bag designed to be slept in outdoors; usually rolls up like a bedroll,n04235860,sleeping_bag,798
+943,944,n04404412,"television, television system",a telecommunication system that transmits images of objects (stationary or moving) between distant points,n04404412,television,852
+944,945,n04371430,"swimming trunks, bathing trunks",swimsuit worn by men while swimming,n04371430,swimming_trunks,843
+945,946,n03733805,measuring cup,graduated cup used to measure liquid or granular ingredients,n03733805,measuring_cup,648
+946,947,n07920052,espresso,strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans,n07920052,espresso,968
+947,948,n07873807,"pizza, pizza pie",Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese,n07873807,pizza,964
+948,949,n02895154,"breastplate, aegis, egis",armor plate that protects the chest; the front part of a cuirass,n02895154,breastplate,462
+949,950,n04204238,shopping basket,a handbasket used to carry goods while shopping,n04204238,shopping_basket,791
+950,951,n04597913,wooden spoon,a spoon made of wood,n04597913,wooden_spoon,911
+951,952,n04131690,"saltshaker, salt shaker",a shaker with a perforated top for sprinkling salt,n04131690,saltshaker,774
+952,953,n07836838,"chocolate sauce, chocolate syrup",sauce made with unsweetened chocolate or cocoa and sugar and water,n07836838,chocolate_sauce,961
+953,954,n09835506,"ballplayer, baseball player",an athlete who plays baseball,n09835506,ballplayer,982
+954,955,n03443371,goblet,a drinking glass with a base and stem,n03443371,goblet,573
+955,956,n13037406,gyromitra,any fungus of the genus Gyromitra,n13037406,gyromitra,994
+956,957,n04336792,stretcher,a litter for transporting people who are ill or wounded or dead; usually consists of a sheet of canvas stretched between two poles,n04336792,stretcher,831
+957,958,n04557648,water bottle,a bottle for holding water,n04557648,water_bottle,899
+958,959,n03187595,"dial telephone, dial phone",a telephone with a dial for registering the number to be called,n03187595,dial_telephone,529
+959,960,n04254120,soap dispenser,dispenser of liquid soap,n04254120,soap_dispenser,805
+960,961,n03595614,"jersey, T-shirt, tee shirt",a close-fitting pullover shirt,n03595614,jersey,611
+961,962,n04146614,school bus,a bus used to transport children to or from school,n04146614,school_bus,780
+962,963,n03598930,jigsaw puzzle,a puzzle that requires you to reassemble a picture that has been mounted on a stiff base and cut into interlocking pieces,n03598930,jigsaw_puzzle,612
+963,964,n03958227,plastic bag,a bag made of thin plastic material,n03958227,plastic_bag,729
+964,965,n04069434,reflex camera,camera that allows the photographer to view and focus the exact scene being photographed,n04069434,reflex_camera,760
+965,966,n03188531,"diaper, nappy, napkin",garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement,n03188531,diaper,530
+966,967,n02786058,Band Aid,trade name for an adhesive bandage to cover small cuts or blisters,n02786058,Band_Aid,420
+967,968,n07615774,"ice lolly, lolly, lollipop, popsicle","ice cream or water ice on a small wooden stick; ""in England a popsicle is called an ice lolly""",n07615774,ice_lolly,930
+968,969,n04525038,velvet,a silky densely piled fabric with a plain back,n04525038,velvet,886
+969,970,n04409515,tennis ball,ball about the size of a fist used in playing tennis,n04409515,tennis_ball,853
+970,971,n03424325,"gasmask, respirator, gas helmet",a protective mask with a filter; protects the face and lungs against poisonous gases,n03424325,gasmask,571
+971,972,n03223299,"doormat, welcome mat",a mat placed outside an exterior door for wiping the shoes before entering,n03223299,doormat,540
+972,973,n03680355,Loafer,a low leather step-in shoe; the top resembles a moccasin but it has a broad flat heel,n03680355,Loafer,631
+973,974,n07614500,"ice cream, icecream",frozen dessert containing cream and sugar and flavoring,n07614500,ice_cream,929
+974,975,n07695742,pretzel,glazed and salted cracker typically in the shape of a loose knot,n07695742,pretzel,933
+975,976,n04033995,"quilt, comforter, comfort, puff",bedding made of two layers of cloth filled with stuffing and stitched together,n04033995,quilt,751
+976,977,n03710721,"maillot, tank suit",a woman's one-piece bathing suit,n03710721,maillot,640
+977,978,n04392985,tape player,electronic equipment for playing back magnetic tapes,n04392985,tape_player,849
+978,979,n03047690,"clog, geta, patten, sabot",footwear usually with wooden soles,n03047690,clog,503
+979,980,n03584254,iPod,(trademark) a pocket-sized device used to play music files,n03584254,iPod,606
+980,981,n13054560,bolete,any fungus of the family Boletaceae,n13054560,bolete,998
+981,982,n10565667,scuba diver,an underwater diver who uses scuba gear,n10565667,scuba_diver,984
+982,983,n03950228,"pitcher, ewer",an open vessel with a handle and a spout for pouring,n03950228,pitcher,726
+983,984,n03729826,matchstick,a short thin stick of wood used in making matches,n03729826,matchstick,645
+984,985,n02837789,"bikini, two-piece",a woman's very brief bathing suit,n02837789,bikini,446
+985,986,n04254777,sock,hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee,n04254777,sock,807
+986,987,n02988304,CD player,a stand-alone piece of electronic equipment that either has its own display or attaches to a television set,n02988304,CD_player,486
+987,988,n03657121,"lens cap, lens cover",cap used to keep lens free of dust when not in use,n03657121,lens_cap,623
+988,989,n04417672,"thatch, thatched roof",a house roof made with a plant material (as straw),n04417672,thatch,854
+989,990,n04523525,vault,an arched brick or stone ceiling or roof,n04523525,vault,885
+990,991,n02815834,beaker,a flatbottomed jar made of glass or plastic; used for chemistry,n02815834,beaker,439
+991,992,n09229709,bubble,"a hollow globule of gas (e.g., air or carbon dioxide)",n09229709,bubble,972
+992,993,n07697313,cheeseburger,a hamburger with melted cheese on it,n07697313,cheeseburger,934
+993,994,n03888605,"parallel bars, bars",gymnastic apparatus consisting of two parallel wooden rods supported on uprights,n03888605,parallel_bars,703
+994,995,n03355925,"flagpole, flagstaff",a tall staff or pole on which a flag is raised,n03355925,flagpole,558
+995,996,n03063599,coffee mug,a mug intended for serving coffee,n03063599,coffee_mug,505
+996,997,n04116512,"rubber eraser, rubber, pencil eraser",an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil,n04116512,rubber_eraser,768
+997,998,n04325704,stole,a wide scarf worn about their shoulders by women,n04325704,stole,825
+998,999,n07831146,carbonara,sauce for pasta; contains eggs and bacon or ham and grated cheese,n07831146,carbonara,960
+999,1000,n03255030,dumbbell,an exercising weight; two spheres connected by a short bar that serves as a handle,n03255030,dumbbell,544
